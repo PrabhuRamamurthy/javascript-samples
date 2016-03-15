@@ -1,6 +1,0 @@
-fruit:lime
-vegetables:
-alcoholicLiqueurs:white rum
-nonalcoholicLiqueurs:syrup
-tasteEnhancers:
-others:

@@ -1,107 +1,10 @@
 <html>
 <head>
 
-<link href="http://dc-js.github.io/dc.js/css/dc.css" type="text/css" rel="stylesheet"/>
-<link rel="stylesheet" href="https://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
-
-
-  <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="https://code.jquery.com/ui/1.9.2/jquery-ui.js"></script> 
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.10/d3.js" ></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"  ></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"  ></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.0-dev/dc.js"></script>
-
-</head>
 </head>
 <body>
 
-Start:<input type="text"  id="start" style="border: 0; color: #f6931f; font-weight: bold;width: 50px" value=0></input>
-End:<input type="text"  id="end" style="border: 0; color: #f6931f; font-weight: bold;" value=100></input>
-<br/><br/>
-
-<div id="valueSlider" style="width:300px;"></div>
-<br/><br/>
-
-<div id="errorbar"></div>
-
-
-<script type="text/javascript">
-	var data = [{
-    "city": "New York",
-    "likes": 25
-}, {
-    "city": "New York",
-        "neighborhood": "Brooklyn",
-         "likes": 55
-}, {
-    "city": "New York",
-        "neighborhood": "Queens",
-         "likes": 74
-}, {
-    "city": "San Francisco",
-        "neighborhood": "Chinatown",
-         "likes": 10
-}, {
-    "city": "San Francisco",
-        "neighborhood": "Downtown",
-         "likes": 66
-}, {
-    "city": "Seattle",
-        "neighborhood": "N/A",
-         "likes": 80
-}, {
-    "city": "Seattle",
-        "neighborhood": "Freemont",
-         "likes": 55
-}];
-
-	var errorchart = dc.barChart("#errorbar");
-  
-	var ndx = crossfilter(data),
-    likesDimension = ndx.dimension(function (d) {return d.likes;}),
-	cityDimension = ndx.dimension(function (d) {return d.city;}),
-	cityLikesGroup = cityDimension.group().reduceSum(function(d) {return d.likes;});
-	
-	$(document).ready(function(){
-		$( "#valueSlider" ).slider({
-							range: true,
-							min: 0,
-							max: 100,
-							step:1,
-							values: [ 0, 100 ],
-							slide: function( event, ui ) {
-								$( "#start" ).val( ui.values[ 0 ]);
-								$( "#end" ).val( ui.values[ 1 ]);
-								if(document.getElementById("start").value != "")
-									{start = document.getElementById("start").value;};
-								if(document.getElementById("end").value != "")
-									{end = document.getElementById("end").value;};
-								likesDimension.filterRange([start,end]);
-								dc.redrawAll();
-								if ( (ui.values[0]+0.1 ) >= ui.values[1] ) {return false;}
-								}
-									  
-							});
-						});
-
-	
-	errorchart.width(350).height(90)
-                            .dimension(cityDimension)
-                            .group(cityLikesGroup)
-                            .transitionDuration(500)
-							.elasticX(true)
-							.elasticY(true)
-							.x(d3.scale.ordinal())
-							.xUnits(dc.units.ordinal) 
-       						.colors(["orange"])
-               				.yAxis().ticks(5);
-							
-
-dc.renderAll();
-</script>
-
-
+<h3> WELCOME </h3>
 
 </body>
 </html>
