@@ -1,0 +1,55 @@
+<!DOCTYPE html >
+
+<head>
+	<title>Cocktail Suggester</title>
+	<link rel="stylesheet" href="../static/css/style.css" >
+</head>
+
+<body>
+<div id="farouter">
+<div id="outer">
+<div id="wrap">
+
+<div id="headermain">
+	<h1 id="header">Salud !</h1>
+	<h2 id="tagline">The perfect cocktail Sommelier</h2>
+</div>
+
+<div id="hmenu">
+<div id="hnav">
+
+<ul id="navlist">
+<li><a href="/home">Home</a></li>
+<li><a href="/makeCocktail">Suggest Cocktail</a></li>
+<li><a href="/cocktailList">Cocktail List</a></li>
+<li><a href="/Adapt">Modify Cocktail</a></li>
+</ul>
+
+</div>
+</div>
+
+
+<div id="main">
+<div id="content">
+
+<div style="height:300px" >
+	<div id="maincontent">
+	{% block content %}
+				
+	{% endblock %}
+	<br/>
+	</div>
+</div>
+
+</div>
+</div>
+
+<div id="clearer">&nbsp;</div>
+<div id="footer"></div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

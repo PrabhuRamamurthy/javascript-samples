@@ -1,0 +1,900 @@
+white rum,white rum,1
+white rum,rum,0.9
+white rum,dark rum,0.7
+white rum,malibu rum ,0.5
+white rum,Amber rum,0.8
+white rum,kirsch,0
+white rum,calvados,0
+white rum,Benedictine,0
+white rum,cognac,0
+white rum,plum brandy,0
+white rum,Cremant,0
+white rum,champagne,0
+white rum,Noilly_Prat,0
+white rum,Porto,0
+white rum,cava,0
+white rum,vermouth,0
+white rum,sparkling wine,0
+white rum,Prosecco,0
+white rum,white wine,0
+white rum,rice wine,0
+white rum,red martini,0
+white rum,vodka,0
+white rum,White martini,0
+white rum,martini,0
+white rum,Whiskey,0
+white rum,pastis spirit,0
+white rum,dry white wine,0
+white rum,campari,0
+white rum,Creme de cafe,0.5
+white rum,cachaca,0.7
+rum,white rum,0.9
+rum,rum,1
+rum,dark rum,0.7
+rum,malibu rum ,0.5
+rum,Amber rum,0.8
+rum,kirsch,0
+rum,calvados,0
+rum,Benedictine,0
+rum,cognac,0
+rum,plum brandy,0
+rum,Cremant,0
+rum,champagne,0
+rum,Noilly_Prat,0
+rum,Porto,0
+rum,cava,0
+rum,vermouth,0
+rum,sparkling wine,0
+rum,Prosecco,0
+rum,white wine,0
+rum,rice wine,0
+rum,red martini,0
+rum,vodka,0
+rum,White martini,0
+rum,martini,0
+rum,Whiskey,0
+rum,pastis spirit,0
+rum,dry white wine,0
+rum,campari,0
+rum,Creme de cafe,0.5
+rum,cachaca,0.7
+dark rum,white rum,0.7
+dark rum,rum,0.7
+dark rum,dark rum,1
+dark rum,malibu rum ,0.5
+dark rum,Amber rum,0.8
+dark rum,kirsch,0
+dark rum,calvados,0
+dark rum,Benedictine,0
+dark rum,cognac,0
+dark rum,plum brandy,0
+dark rum,Cremant,0
+dark rum,champagne,0
+dark rum,Noilly_Prat,0
+dark rum,Porto,0
+dark rum,cava,0
+dark rum,vermouth,0
+dark rum,sparkling wine,0
+dark rum,Prosecco,0
+dark rum,white wine,0
+dark rum,rice wine,0
+dark rum,red martini,0
+dark rum,vodka,0
+dark rum,White martini,0
+dark rum,martini,0
+dark rum,Whiskey,0
+dark rum,pastis spirit,0
+dark rum,dry white wine,0
+dark rum,campari,0
+dark rum,Creme de cafe,0.3
+dark rum,cachaca,0.7
+malibu rum,white rum,0.5
+malibu rum,rum,0.5
+malibu rum,dark rum,0.5
+malibu rum,malibu rum ,1
+malibu rum,Amber rum,0.5
+malibu rum,kirsch,0
+malibu rum,calvados,0
+malibu rum,Benedictine,0
+malibu rum,cognac,0
+malibu rum,plum brandy,0
+malibu rum,Cremant,0
+malibu rum,champagne,0
+malibu rum,Noilly_Prat,0
+malibu rum,Porto,0
+malibu rum,cava,0
+malibu rum,vermouth,0
+malibu rum,sparkling wine,0
+malibu rum,Prosecco,0
+malibu rum,white wine,0
+malibu rum,rice wine,0
+malibu rum,red martini,0
+malibu rum,vodka,0
+malibu rum,White martini,0
+malibu rum,martini,0
+malibu rum,Whiskey,0
+malibu rum,pastis spirit,0
+malibu rum,dry white wine,0
+malibu rum,campari,0
+malibu rum,Creme de cafe,0.4
+malibu rum,cachaca,0.7
+Amber rum,white rum,0.8
+Amber rum,rum,0.8
+Amber rum,dark rum,0.8
+Amber rum,malibu rum ,0.5
+Amber rum,Amber rum,1
+Amber rum,kirsch,0
+Amber rum,calvados,0
+Amber rum,Benedictine,0
+Amber rum,cognac,0
+Amber rum,plum brandy,0
+Amber rum,Cremant,0
+Amber rum,champagne,0
+Amber rum,Noilly_Prat,0
+Amber rum,Porto,0
+Amber rum,cava,0
+Amber rum,vermouth,0
+Amber rum,sparkling wine,0
+Amber rum,Prosecco,0
+Amber rum,white wine,0
+Amber rum,rice wine,0
+Amber rum,red martini,0
+Amber rum,vodka,0
+Amber rum,White martini,0
+Amber rum,martini,0
+Amber rum,Whiskey,0
+Amber rum,pastis spirit,0
+Amber rum,dry white wine,0
+Amber rum,campari,0
+Amber rum,Creme de cafe,0.5
+Amber rum,cachaca,0.7
+kirsch(from cherry),white rum,0
+kirsch(from cherry),rum,0
+kirsch(from cherry),dark rum,0
+kirsch(from cherry),malibu rum ,0
+kirsch(from cherry),Amber rum,0
+kirsch(from cherry),kirsch,1
+kirsch(from cherry),calvados,0.6
+kirsch(from cherry),Benedictine,0.5
+kirsch(from cherry),cognac,0.9
+kirsch(from cherry),plum brandy,0.7
+kirsch(from cherry),Cremant,0.4
+kirsch(from cherry),champagne,0.4
+kirsch(from cherry),Noilly_Prat,0.4
+kirsch(from cherry),Porto,0.4
+kirsch(from cherry),cava,0.4
+kirsch(from cherry),vermouth,0.4
+kirsch(from cherry),sparkling wine,0.4
+kirsch(from cherry),Prosecco,0.4
+kirsch(from cherry),white wine,0.4
+kirsch(from cherry),rice wine,0.4
+kirsch(from cherry),red martini,0
+kirsch(from cherry),vodka,0
+kirsch(from cherry),White martini,0
+kirsch(from cherry),martini,0
+kirsch(from cherry),Whiskey,0
+kirsch(from cherry),pastis spirit,0
+kirsch(from cherry),dry white wine,0.4
+kirsch(from cherry),campari,0.1
+kirsch(from cherry),Creme de cafe,0.5
+kirsch(from cherry),cachaca,0
+calvados(from apple),white rum,0
+calvados(from apple),rum,0
+calvados(from apple),dark rum,0
+calvados(from apple),malibu rum ,0
+calvados(from apple),Amber rum,0
+calvados(from apple),kirsch,0.6
+calvados(from apple),calvados,1
+calvados(from apple),Benedictine,0.5
+calvados(from apple),cognac,0.6
+calvados(from apple),plum brandy,0.6
+calvados(from apple),Cremant,0.4
+calvados(from apple),champagne,0.4
+calvados(from apple),Noilly_Prat,0.4
+calvados(from apple),Porto,0.4
+calvados(from apple),cava,0.4
+calvados(from apple),vermouth,0.4
+calvados(from apple),sparkling wine,0.4
+calvados(from apple),Prosecco,0.4
+calvados(from apple),white wine,0.4
+calvados(from apple),rice wine,0.4
+calvados(from apple),red martini,0
+calvados(from apple),vodka,0
+calvados(from apple),White martini,0
+calvados(from apple),martini,0
+calvados(from apple),Whiskey,0
+calvados(from apple),pastis spirit,0
+calvados(from apple),dry white wine,0.4
+calvados(from apple),campari,0.1
+calvados(from apple),Creme de cafe,0.5
+calvados(from apple),cachaca,0
+"Benedictine(herbal liquer brandy based)",white rum,0
+"Benedictine(herbal liquer brandy based)",rum,0
+"Benedictine(herbal liquer brandy based)",dark rum,0
+"Benedictine(herbal liquer brandy based)",malibu rum ,0
+"Benedictine(herbal liquer brandy based)",Amber rum,0
+"Benedictine(herbal liquer brandy based)",kirsch,0.5
+"Benedictine(herbal liquer brandy based)",calvados,0.5
+"Benedictine(herbal liquer brandy based)",Benedictine,1
+"Benedictine(herbal liquer brandy based)",cognac,0.5
+"Benedictine(herbal liquer brandy based)",plum brandy,0.5
+"Benedictine(herbal liquer brandy based)",Cremant,0.4
+"Benedictine(herbal liquer brandy based)",champagne,0.4
+"Benedictine(herbal liquer brandy based)",Noilly_Prat,0.4
+"Benedictine(herbal liquer brandy based)",Porto,0.4
+"Benedictine(herbal liquer brandy based)",cava,0.4
+"Benedictine(herbal liquer brandy based)",vermouth,0.4
+"Benedictine(herbal liquer brandy based)",sparkling wine,0.4
+"Benedictine(herbal liquer brandy based)",Prosecco,0.4
+"Benedictine(herbal liquer brandy based)",white wine,0.4
+"Benedictine(herbal liquer brandy based)",rice wine,0.4
+"Benedictine(herbal liquer brandy based)",red martini,0
+"Benedictine(herbal liquer brandy based)",vodka,0
+"Benedictine(herbal liquer brandy based)",White martini,0
+"Benedictine(herbal liquer brandy based)",martini,0
+"Benedictine(herbal liquer brandy based)",Whiskey,0
+"Benedictine(herbal liquer brandy based)",pastis spirit,0
+"Benedictine(herbal liquer brandy based)",dry white wine,0.4
+"Benedictine(herbal liquer brandy based)",campari,0.1
+"Benedictine(herbal liquer brandy based)",Creme de cafe,0.5
+"Benedictine(herbal liquer brandy based)",cachaca,0
+cognac(from cherry),white rum,0
+cognac(from cherry),rum,0
+cognac(from cherry),dark rum,0
+cognac(from cherry),malibu rum ,0
+cognac(from cherry),Amber rum,0
+cognac(from cherry),kirsch,0.9
+cognac(from cherry),calvados,0.6
+cognac(from cherry),Benedictine,0.5
+cognac(from cherry),cognac,1
+cognac(from cherry),plum brandy,0.7
+cognac(from cherry),Cremant,0.4
+cognac(from cherry),champagne,0.4
+cognac(from cherry),Noilly_Prat,0.4
+cognac(from cherry),Porto,0.4
+cognac(from cherry),cava,0.4
+cognac(from cherry),vermouth,0.4
+cognac(from cherry),sparkling wine,0.4
+cognac(from cherry),Prosecco,0.4
+cognac(from cherry),white wine,0.4
+cognac(from cherry),rice wine,0.4
+cognac(from cherry),red martini,0
+cognac(from cherry),vodka,0
+cognac(from cherry),White martini,0
+cognac(from cherry),martini,0
+cognac(from cherry),Whiskey,0
+cognac(from cherry),pastis spirit,0
+cognac(from cherry),dry white wine,0.4
+cognac(from cherry),campari,0.1
+cognac(from cherry),Creme de cafe,0.5
+cognac(from cherry),cachaca,0
+plum brandy,white rum,0
+plum brandy,rum,0
+plum brandy,dark rum,0
+plum brandy,malibu rum ,0
+plum brandy,Amber rum,0
+plum brandy,kirsch,0.7
+plum brandy,calvados,0.6
+plum brandy,Benedictine,0.5
+plum brandy,cognac,0.7
+plum brandy,plum brandy,1
+plum brandy,Cremant,0.4
+plum brandy,champagne,0.4
+plum brandy,Noilly_Prat,0.4
+plum brandy,Porto,0.4
+plum brandy,cava,0.4
+plum brandy,vermouth,0.4
+plum brandy,sparkling wine,0.4
+plum brandy,Prosecco,0.4
+plum brandy,white wine,0.4
+plum brandy,rice wine,0.4
+plum brandy,red martini,0
+plum brandy,vodka,0
+plum brandy,White martini,0
+plum brandy,martini,0
+plum brandy,Whiskey,0
+plum brandy,pastis spirit,0
+plum brandy,dry white wine,0.4
+plum brandy,campari,0.1
+plum brandy,Creme de cafe,0.5
+plum brandy,cachaca,0
+Cremant,white rum,0
+Cremant,rum,0
+Cremant,dark rum,0
+Cremant,malibu rum ,0
+Cremant,Amber rum,0
+Cremant,kirsch,0.4
+Cremant,calvados,0.4
+Cremant,Benedictine,0.4
+Cremant,cognac,0.4
+Cremant,plum brandy,0.4
+Cremant,Cremant,1
+Cremant,champagne,0.8
+Cremant,Noilly_Prat,0.7
+Cremant,Porto,0.6
+Cremant,cava,0.6
+Cremant,vermouth,0.6
+Cremant,sparkling wine,0.9
+Cremant,Prosecco,0.7
+Cremant,white wine,0.6
+Cremant,rice wine,0.5
+Cremant,red martini,0
+Cremant,vodka,0
+Cremant,White martini,0
+Cremant,martini,0
+Cremant,Whiskey,0
+Cremant,pastis spirit,0
+Cremant,dry white wine,0.6
+Cremant,campari,0.3
+Cremant,Creme de cafe,0
+Cremant,cachaca,0
+champagne,white rum,0
+champagne,rum,0
+champagne,dark rum,0
+champagne,malibu rum ,0
+champagne,Amber rum,0
+champagne,kirsch,0.4
+champagne,calvados,0.4
+champagne,Benedictine,0.4
+champagne,cognac,0.4
+champagne,plum brandy,0.4
+champagne,Cremant,0.8
+champagne,champagne,1
+champagne,Noilly_Prat,0.6
+champagne,Porto,0.7
+champagne,cava,0.7
+champagne,vermouth,0.8
+champagne,sparkling wine,0.9
+champagne,Prosecco,0.7
+champagne,white wine,0.6
+champagne,rice wine,0.5
+champagne,red martini,0
+champagne,vodka,0
+champagne,White martini,0
+champagne,martini,0
+champagne,Whiskey,0
+champagne,pastis spirit,0
+champagne,dry white wine,0.6
+champagne,campari,0.3
+champagne,Creme de cafe,0
+champagne,cachaca,0
+Noilly_Prat,white rum,0
+Noilly_Prat,rum,0
+Noilly_Prat,dark rum,0
+Noilly_Prat,malibu rum ,0
+Noilly_Prat,Amber rum,0
+Noilly_Prat,kirsch,0.4
+Noilly_Prat,calvados,0.4
+Noilly_Prat,Benedictine,0.4
+Noilly_Prat,cognac,0.4
+Noilly_Prat,plum brandy,0.4
+Noilly_Prat,Cremant,0.7
+Noilly_Prat,champagne,0.6
+Noilly_Prat,Noilly_Prat,1
+Noilly_Prat,Porto,0.9
+Noilly_Prat,cava,0.6
+Noilly_Prat,vermouth,0.9
+Noilly_Prat,sparkling wine,0.7
+Noilly_Prat,Prosecco,0.6
+Noilly_Prat,white wine,0.6
+Noilly_Prat,rice wine,0.5
+Noilly_Prat,red martini,0
+Noilly_Prat,vodka,0
+Noilly_Prat,White martini,0
+Noilly_Prat,martini,0
+Noilly_Prat,Whiskey,0
+Noilly_Prat,pastis spirit,0
+Noilly_Prat,dry white wine,0.6
+Noilly_Prat,campari,0.3
+Noilly_Prat,Creme de cafe,0
+Noilly_Prat,cachaca,0
+Porto,white rum,0
+Porto,rum,0
+Porto,dark rum,0
+Porto,malibu rum ,0
+Porto,Amber rum,0
+Porto,kirsch,0.4
+Porto,calvados,0.4
+Porto,Benedictine,0.4
+Porto,cognac,0.4
+Porto,plum brandy,0.4
+Porto,Cremant,0.6
+Porto,champagne,0.7
+Porto,Noilly_Prat,0.9
+Porto,Porto,1
+Porto,cava,0.6
+Porto,vermouth,0.8
+Porto,sparkling wine,0.8
+Porto,Prosecco,0.7
+Porto,white wine,0.6
+Porto,rice wine,0.5
+Porto,red martini,0
+Porto,vodka,0
+Porto,White martini,0
+Porto,martini,0
+Porto,Whiskey,0
+Porto,pastis spirit,0
+Porto,dry white wine,0.6
+Porto,campari,0.3
+Porto,Creme de cafe,0
+Porto,cachaca,0
+cava,white rum,0
+cava,rum,0
+cava,dark rum,0
+cava,malibu rum ,0
+cava,Amber rum,0
+cava,kirsch,0.4
+cava,calvados,0.4
+cava,Benedictine,0.4
+cava,cognac,0.4
+cava,plum brandy,0.4
+cava,Cremant,0.6
+cava,champagne,0.7
+cava,Noilly_Prat,0.6
+cava,Porto,0.6
+cava,cava,1
+cava,vermouth,0.8
+cava,sparkling wine,0.8
+cava,Prosecco,0.7
+cava,white wine,0.6
+cava,rice wine,0.5
+cava,red martini,0
+cava,vodka,0
+cava,White martini,0
+cava,martini,0
+cava,Whiskey,0
+cava,pastis spirit,0
+cava,dry white wine,0.6
+cava,campari,0.3
+cava,Creme de cafe,0
+cava,cachaca,0
+vermouth,white rum,0
+vermouth,rum,0
+vermouth,dark rum,0
+vermouth,malibu rum ,0
+vermouth,Amber rum,0
+vermouth,kirsch,0.4
+vermouth,calvados,0.4
+vermouth,Benedictine,0.4
+vermouth,cognac,0.4
+vermouth,plum brandy,0.4
+vermouth,Cremant,0.6
+vermouth,champagne,0.8
+vermouth,Noilly_Prat,0.9
+vermouth,Porto,0.8
+vermouth,cava,0.8
+vermouth,vermouth,1
+vermouth,sparkling wine,0.6
+vermouth,Prosecco,0.6
+vermouth,white wine,0.8
+vermouth,rice wine,0.5
+vermouth,red martini,0
+vermouth,vodka,0
+vermouth,White martini,0
+vermouth,martini,0
+vermouth,Whiskey,0
+vermouth,pastis spirit,0
+vermouth,dry white wine,0.7
+vermouth,campari,0.4
+vermouth,Creme de cafe,0
+vermouth,cachaca,0
+sparkling wine,white rum,0
+sparkling wine,rum,0
+sparkling wine,dark rum,0
+sparkling wine,malibu rum ,0
+sparkling wine,Amber rum,0
+sparkling wine,kirsch,0.4
+sparkling wine,calvados,0.4
+sparkling wine,Benedictine,0.4
+sparkling wine,cognac,0.4
+sparkling wine,plum brandy,0.4
+sparkling wine,Cremant,0.9
+sparkling wine,champagne,0.9
+sparkling wine,Noilly_Prat,0.7
+sparkling wine,Porto,0.8
+sparkling wine,cava,0.8
+sparkling wine,vermouth,0.6
+sparkling wine,sparkling wine,1
+sparkling wine,Prosecco,0.6
+sparkling wine,white wine,0.6
+sparkling wine,rice wine,0.5
+sparkling wine,red martini,0
+sparkling wine,vodka,0
+sparkling wine,White martini,0
+sparkling wine,martini,0
+sparkling wine,Whiskey,0
+sparkling wine,pastis spirit,0
+sparkling wine,dry white wine,0.6
+sparkling wine,campari,0.3
+sparkling wine,Creme de cafe,0
+sparkling wine,cachaca,0
+Prosecco,white rum,0
+Prosecco,rum,0
+Prosecco,dark rum,0
+Prosecco,malibu rum ,0
+Prosecco,Amber rum,0
+Prosecco,kirsch,0.4
+Prosecco,calvados,0.4
+Prosecco,Benedictine,0.4
+Prosecco,cognac,0.4
+Prosecco,plum brandy,0.4
+Prosecco,Cremant,0.7
+Prosecco,champagne,0.7
+Prosecco,Noilly_Prat,0.6
+Prosecco,Porto,0.7
+Prosecco,cava,0.7
+Prosecco,vermouth,0.6
+Prosecco,sparkling wine,0.6
+Prosecco,Prosecco,1
+Prosecco,white wine,0.6
+Prosecco,rice wine,0.5
+Prosecco,red martini,0
+Prosecco,vodka,0
+Prosecco,White martini,0
+Prosecco,martini,0
+Prosecco,Whiskey,0
+Prosecco,pastis spirit,0
+Prosecco,dry white wine,0.6
+Prosecco,campari,0.3
+Prosecco,Creme de cafe,0
+Prosecco,cachaca,0
+white wine,white rum,0
+white wine,rum,0
+white wine,dark rum,0
+white wine,malibu rum ,0
+white wine,Amber rum,0
+white wine,kirsch,0.4
+white wine,calvados,0.4
+white wine,Benedictine,0.4
+white wine,cognac,0.4
+white wine,plum brandy,0.4
+white wine,Cremant,0.6
+white wine,champagne,0.6
+white wine,Noilly_Prat,0.6
+white wine,Porto,0.6
+white wine,cava,0.6
+white wine,vermouth,0.8
+white wine,sparkling wine,0.6
+white wine,Prosecco,0.6
+white wine,white wine,1
+white wine,rice wine,0.5
+white wine,red martini,0
+white wine,vodka,0
+white wine,White martini,0
+white wine,martini,0
+white wine,Whiskey,0
+white wine,pastis spirit,0
+white wine,dry white wine,0.9
+white wine,campari,0.3
+white wine,Creme de cafe,0
+white wine,cachaca,0
+rice wine,white rum,0
+rice wine,rum,0
+rice wine,dark rum,0
+rice wine,malibu rum ,0
+rice wine,Amber rum,0
+rice wine,kirsch,0.4
+rice wine,calvados,0.4
+rice wine,Benedictine,0.4
+rice wine,cognac,0.4
+rice wine,plum brandy,0.4
+rice wine,Cremant,0.5
+rice wine,champagne,0.5
+rice wine,Noilly_Prat,0.5
+rice wine,Porto,0.5
+rice wine,cava,0.5
+rice wine,vermouth,0.5
+rice wine,sparkling wine,0.5
+rice wine,Prosecco,0.5
+rice wine,white wine,0.5
+rice wine,rice wine,1
+rice wine,red martini,0
+rice wine,vodka,0
+rice wine,White martini,0
+rice wine,martini,0
+rice wine,Whiskey,0
+rice wine,pastis spirit,0
+rice wine,dry white wine,0.6
+rice wine,campari,0.2
+rice wine,Creme de cafe,0
+rice wine,cachaca,0
+red martini,white rum,0
+red martini,rum,0
+red martini,dark rum,0
+red martini,malibu rum ,0
+red martini,Amber rum,0
+red martini,kirsch,0
+red martini,calvados,0
+red martini,Benedictine,0
+red martini,cognac,0
+red martini,plum brandy,0
+red martini,Cremant,0
+red martini,champagne,0
+red martini,Noilly_Prat,0
+red martini,Porto,0
+red martini,cava,0
+red martini,vermouth,0
+red martini,sparkling wine,0
+red martini,Prosecco,0
+red martini,white wine,0
+red martini,rice wine,0
+red martini,red martini,1
+red martini,vodka,0.9
+red martini,White martini,0.8
+red martini,martini,0.8
+red martini,Whiskey,0
+red martini,pastis spirit,0.6
+red martini,dry white wine,0
+red martini,campari,0
+red martini,Creme de cafe,0
+red martini,cachaca,0
+vodka,white rum,0
+vodka,rum,0
+vodka,dark rum,0
+vodka,malibu rum ,0
+vodka,Amber rum,0
+vodka,kirsch,0
+vodka,calvados,0
+vodka,Benedictine,0
+vodka,cognac,0
+vodka,plum brandy,0
+vodka,Cremant,0
+vodka,champagne,0
+vodka,Noilly_Prat,0
+vodka,Porto,0
+vodka,cava,0
+vodka,vermouth,0
+vodka,sparkling wine,0
+vodka,Prosecco,0
+vodka,white wine,0
+vodka,rice wine,0
+vodka,red martini,0.9
+vodka,vodka,1
+vodka,White martini,0.8
+vodka,martini,0.8
+vodka,Whiskey,0
+vodka,pastis spirit,0.6
+vodka,dry white wine,0
+vodka,campari,0
+vodka,Creme de cafe,0
+vodka,cachaca,0
+White martini,white rum,0
+White martini,rum,0
+White martini,dark rum,0
+White martini,malibu rum ,0
+White martini,Amber rum,0
+White martini,kirsch,0
+White martini,calvados,0
+White martini,Benedictine,0
+White martini,cognac,0
+White martini,plum brandy,0
+White martini,Cremant,0
+White martini,champagne,0
+White martini,Noilly_Prat,0
+White martini,Porto,0
+White martini,cava,0
+White martini,vermouth,0
+White martini,sparkling wine,0
+White martini,Prosecco,0
+White martini,white wine,0
+White martini,rice wine,0
+White martini,red martini,0.8
+White martini,vodka,0.8
+White martini,White martini,1
+White martini,martini,0.9
+White martini,Whiskey,0
+White martini,pastis spirit,0.6
+White martini,dry white wine,0
+White martini,campari,0
+White martini,Creme de cafe,0
+White martini,cachaca,0
+martini,white rum,0
+martini,rum,0
+martini,dark rum,0
+martini,malibu rum ,0
+martini,Amber rum,0
+martini,kirsch,0
+martini,calvados,0
+martini,Benedictine,0
+martini,cognac,0
+martini,plum brandy,0
+martini,Cremant,0
+martini,champagne,0
+martini,Noilly_Prat,0
+martini,Porto,0
+martini,cava,0
+martini,vermouth,0
+martini,sparkling wine,0
+martini,Prosecco,0
+martini,white wine,0
+martini,rice wine,0
+martini,red martini,0.8
+martini,vodka,0.8
+martini,White martini,0.9
+martini,martini,1
+martini,Whiskey,0
+martini,pastis spirit,0.6
+martini,dry white wine,0
+martini,campari,0
+martini,Creme de cafe,0
+martini,cachaca,0
+Whiskey,white rum,0
+Whiskey,rum,0
+Whiskey,dark rum,0
+Whiskey,malibu rum ,0
+Whiskey,Amber rum,0
+Whiskey,kirsch,0
+Whiskey,calvados,0
+Whiskey,Benedictine,0
+Whiskey,cognac,0
+Whiskey,plum brandy,0
+Whiskey,Cremant,0
+Whiskey,champagne,0
+Whiskey,Noilly_Prat,0
+Whiskey,Porto,0
+Whiskey,cava,0
+Whiskey,vermouth,0
+Whiskey,sparkling wine,0
+Whiskey,Prosecco,0
+Whiskey,white wine,0
+Whiskey,rice wine,0
+Whiskey,red martini,0
+Whiskey,vodka,0
+Whiskey,White martini,0
+Whiskey,martini,0
+Whiskey,Whiskey,1
+Whiskey,pastis spirit,0.6
+Whiskey,dry white wine,0
+Whiskey,campari,0
+Whiskey,Creme de cafe,0
+Whiskey,cachaca,0
+pastis spirit,white rum,0
+pastis spirit,rum,0
+pastis spirit,dark rum,0
+pastis spirit,malibu rum ,0
+pastis spirit,Amber rum,0
+pastis spirit,kirsch,0
+pastis spirit,calvados,0
+pastis spirit,Benedictine,0
+pastis spirit,cognac,0
+pastis spirit,plum brandy,0
+pastis spirit,Cremant,0
+pastis spirit,champagne,0
+pastis spirit,Noilly_Prat,0
+pastis spirit,Porto,0
+pastis spirit,cava,0
+pastis spirit,vermouth,0
+pastis spirit,sparkling wine,0
+pastis spirit,Prosecco,0
+pastis spirit,white wine,0
+pastis spirit,rice wine,0
+pastis spirit,red martini,0.6
+pastis spirit,vodka,0.6
+pastis spirit,White martini,0.6
+pastis spirit,martini,0.6
+pastis spirit,Whiskey,0.6
+pastis spirit,pastis spirit,1
+pastis spirit,dry white wine,0
+pastis spirit,campari,0
+pastis spirit,Creme de cafe,0
+pastis spirit,cachaca,0
+dry white wine,white rum,0
+dry white wine,rum,0
+dry white wine,dark rum,0
+dry white wine,malibu rum ,0
+dry white wine,Amber rum,0
+dry white wine,kirsch,0.4
+dry white wine,calvados,0.4
+dry white wine,Benedictine,0.4
+dry white wine,cognac,0.4
+dry white wine,plum brandy,0.4
+dry white wine,Cremant,0.6
+dry white wine,champagne,0.6
+dry white wine,Noilly_Prat,0.6
+dry white wine,Porto,0.6
+dry white wine,cava,0.6
+dry white wine,vermouth,0.7
+dry white wine,sparkling wine,0.6
+dry white wine,Prosecco,0.6
+dry white wine,white wine,0.9
+dry white wine,rice wine,0.6
+dry white wine,red martini,0
+dry white wine,vodka,0
+dry white wine,White martini,0
+dry white wine,martini,0
+dry white wine,Whiskey,0
+dry white wine,pastis spirit,0
+dry white wine,dry white wine,1
+dry white wine,campari,0
+dry white wine,Creme de cafe,0
+dry white wine,cachaca,0
+campari,white rum,0
+campari,rum,0
+campari,dark rum,0
+campari,malibu rum ,0
+campari,Amber rum,0
+campari,kirsch,0.1
+campari,calvados,0.1
+campari,Benedictine,0.1
+campari,cognac,0.1
+campari,plum brandy,0.1
+campari,Cremant,0.3
+campari,champagne,0.3
+campari,Noilly_Prat,0.3
+campari,Porto,0.3
+campari,cava,0.3
+campari,vermouth,0.4
+campari,sparkling wine,0.3
+campari,Prosecco,0.3
+campari,white wine,0.3
+campari,rice wine,0.2
+campari,red martini,0
+campari,vodka,0
+campari,White martini,0
+campari,martini,0
+campari,Whiskey,0
+campari,pastis spirit,0
+campari,dry white wine,0
+campari,campari,1
+campari,Creme de cafe,0
+campari,cachaca,0
+Creme de café,white rum,0.5
+Creme de café,rum,0.5
+Creme de café,dark rum,0.3
+Creme de café,malibu rum ,0.4
+Creme de café,Amber rum,0.5
+Creme de café,kirsch,0.5
+Creme de café,calvados,0.5
+Creme de café,Benedictine,0.5
+Creme de café,cognac,0.5
+Creme de café,plum brandy,0.5
+Creme de café,Cremant,0
+Creme de café,champagne,0
+Creme de café,Noilly_Prat,0
+Creme de café,Porto,0
+Creme de café,cava,0
+Creme de café,vermouth,0
+Creme de café,sparkling wine,0
+Creme de café,Prosecco,0
+Creme de café,white wine,0
+Creme de café,rice wine,0
+Creme de café,red martini,0
+Creme de café,vodka,0
+Creme de café,White martini,0
+Creme de café,martini,0
+Creme de café,Whiskey,0
+Creme de café,pastis spirit,0
+Creme de café,dry white wine,0
+Creme de café,campari,0
+Creme de café,Creme de cafe,1
+Creme de café,cachaca,0
+cachaca,white rum,0.7
+cachaca,rum,0.7
+cachaca,dark rum,0.7
+cachaca,malibu rum ,0.7
+cachaca,Amber rum,0.7
+cachaca,kirsch,0
+cachaca,calvados,0
+cachaca,Benedictine,0
+cachaca,cognac,0
+cachaca,plum brandy,0
+cachaca,Cremant,0
+cachaca,champagne,0
+cachaca,Noilly_Prat,0
+cachaca,Porto,0
+cachaca,cava,0
+cachaca,vermouth,0
+cachaca,sparkling wine,0
+cachaca,Prosecco,0
+cachaca,white wine,0
+cachaca,rice wine,0
+cachaca,red martini,0
+cachaca,vodka,0
+cachaca,White martini,0
+cachaca,martini,0
+cachaca,Whiskey,0
+cachaca,pastis spirit,0
+cachaca,dry white wine,0
+cachaca,campari,0
+cachaca,Creme de cafe,0
+cachaca,cachaca,1

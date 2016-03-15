@@ -1,0 +1,91 @@
+{% extends "template.html" %}
+{% block content %}
+
+<div id="centrecontent">
+	<font color="#E80000" size=3><label><b>Enter the Details</b></label></font>
+	<br/> 
+	
+	<form action="{{ url_for('makeCocktail') }}" method="post" name="makeCocktail" >
+		<table>
+		<tr>
+			<td><label><b>Fruits</b></label></td>
+			<td><input name="fruit" type="text" value=""></td>
+			<td> eg: lemon,strawberry</td>
+		</tr>
+		<tr>
+			<td><label><b>Vegetables</b></label></td>
+			<td><input name="vegetable" type="text" value=""></td>
+			<td> eg: cucumber,tomato</td>
+		</tr>
+		<tr>
+			<td><label><b>Alcoholic Liqueur</b></label></td>
+			<td><input name="alcoholicLiqueur" type="text" value=""></td>
+			<td> eg: cremant,vodka</td>
+		</tr>
+		<tr>
+			<td><label><b>Non Alcoholic Syrups / Fruit Juices</b></label></td>
+			<td><input name="nonalcoholicLiqueur" type="text" value=""></td>
+			<td> eg: orange juice,lemon juice</td>
+		</tr>
+		<tr>
+			<td><label><b>Taste Enhancers</b></label></td>
+			<td><input name="tasteEnhancers" type="text" value=""></td>
+			<td> eg: sugar,sour cream</td>
+		</tr>
+		<tr>
+			<td><label><b>Other Add Ons</b></label></td>
+			<td>
+				<input type="checkbox" name="others" value="ice cube" checked>Ice Cube</input>
+				<input type="checkbox" name="others" value="sparkling water">Sparkling Water</input><br/>
+				<input type="checkbox" name="others" value="ice cream">Ice Cream</input>
+				<input type="checkbox" name="others" value="soda water">Soda water</input><br/>
+			</td>
+		
+		</tr>
+		<tr><td><br/></td></tr>
+		</table>
+
+
+		{% if matchedcocktail %}
+			
+			<font size=2><strong>Top Matching Cocktails with Similarity Score <font color="#E80000">
+			<table align='centre'>
+			{%	for cocktail in matchedcocktail:	%}
+				<tr>
+					<td>{{cocktail[0]}}</td><td>-</td><td>{{cocktail[1]}}</td><td>-</td><td>Alcohol Content: {{cocktail[2]}}</td> 
+				</tr>
+			{% endfor %} 
+			</table>
+			</font></strong></font>
+		{% else %}
+			<input value="Suggest Cocktail" type="submit" /><br/><br/>
+			<pre>
+Tip : 1.Multiple ingredients under same category are typed as comma separated values - eg: lemon,strawberry
+	2.Click on navigator "Suggest Cocktail" at the top to search for new Cocktail recipe 
+			</pre>
+		{% endif %}
+		<br/><br/>
+	</form>
+
+{% if matchedcocktail %}
+<form action="{{ url_for('cocktailList') }}" method="post" name="cocktailList">
+<table>
+<tr>
+	<td>
+	Want to know how to make them :
+	<input type=hidden name="cocktailName1" value="{{matchedcocktail[0][0]}}" />
+	<input type=hidden name="cocktailName2" value="{{matchedcocktail[1][0]}}" />
+	<input type=hidden name="cocktailName3" value="{{matchedcocktail[2][0]}}" />
+	<input type=hidden name="cocktailName" value="{{matchedcocktail[0][0]}}" />
+	</td>
+	<td>
+	<input value="Click!" type="submit" />
+	</td>
+</tr>
+</table>
+</form>
+{% endif %}
+
+
+</div>
+{% endblock %}

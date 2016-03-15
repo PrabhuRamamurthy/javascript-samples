@@ -1,0 +1,359 @@
+lemon,lemon,1
+lemon,orange,0.9
+lemon,citrus fruit,0.9
+lemon,lime,1
+lemon,lime zest,0.7
+lemon,blood orange,0.85
+lemon,pineapple,0.8
+lemon,apricot,0.6
+lemon,litchi,0.6
+lemon,black currant,0.6
+lemon,raspberry,0.5
+lemon,kiwi fruit,0.5
+lemon,berry,0.4
+lemon,banana,0.1
+lemon,melon,0.35
+lemon,apple,0.4
+lemon,strawberry,0.3
+lemon,grapefruit,0
+lemon,currant,0.6
+lemon,guava,0
+orange,lemon,0.9
+orange,orange,1
+orange,citrus fruit,0.9
+orange,lime,0.9
+orange,lime zest,0.7
+orange,blood orange,0.95
+orange,pineapple,0.8
+orange,apricot,0.6
+orange,litchi,0.6
+orange,black currant,0.6
+orange,raspberry,0.5
+orange,kiwi fruit,0.5
+orange,berry,0.4
+orange,banana,0.1
+orange,melon,0.35
+orange,apple,0.4
+orange,strawberry,0.3
+orange,grapefruit,0
+orange,currant,0.6
+orange,guava,0
+citrus fruit,lemon,0.9
+citrus fruit,orange,0.9
+citrus fruit,citrus fruit,1
+citrus fruit,lime,0.95
+citrus fruit,lime zest,0.65
+citrus fruit,blood orange,0.8
+citrus fruit,pineapple,0.7
+citrus fruit,apricot,0.5
+citrus fruit,litchi,0.5
+citrus fruit,black currant,0.5
+citrus fruit,raspberry,0.4
+citrus fruit,kiwi fruit,0.4
+citrus fruit,berry,0.3
+citrus fruit,banana,0.1
+citrus fruit,melon,0.25
+citrus fruit,apple,0.3
+citrus fruit,strawberry,0.2
+citrus fruit,grapefruit,0
+citrus fruit,currant,0.5
+citrus fruit,guava,0
+lime,lemon,1
+lime,orange,0.9
+lime,citrus fruit,0.95
+lime,lime,1
+lime,lime zest,0.7
+lime,blood orange,0.85
+lime,pineapple,0.8
+lime,apricot,0.6
+lime,litchi,0.6
+lime,black currant,0.6
+lime,raspberry,0.5
+lime,kiwi fruit,0.5
+lime,berry,0.4
+lime,banana,0.1
+lime,melon,0.35
+lime,apple,0.4
+lime,strawberry,0.3
+lime,grapefruit,0
+lime,currant,0.6
+lime,guava,0
+lime zest,lemon,0.7
+lime zest,orange,0.7
+lime zest,citrus fruit,0.65
+lime zest,lime,0.7
+lime zest,lime zest,1
+lime zest,blood orange,0.5
+lime zest,pineapple,0.6
+lime zest,apricot,0.2
+lime zest,litchi,0.2
+lime zest,black currant,0.1
+lime zest,raspberry,0.1
+lime zest,kiwi fruit,0.1
+lime zest,berry,0.05
+lime zest,banana,0.05
+lime zest,melon,0.2
+lime zest,apple,0.1
+lime zest,strawberry,0.1
+lime zest,grapefruit,0.3
+lime zest,currant,0.1
+lime zest,guava,0.2
+blood orange,lemon,0.85
+blood orange,orange,0.95
+blood orange,citrus fruit,0.8
+blood orange,lime,0.85
+blood orange,lime zest,0.5
+blood orange,blood orange,1
+blood orange,pineapple,0.7
+blood orange,apricot,0.6
+blood orange,litchi,0.6
+blood orange,black currant,0.6
+blood orange,raspberry,0.5
+blood orange,kiwi fruit,0.5
+blood orange,berry,0.4
+blood orange,banana,0.1
+blood orange,melon,0.35
+blood orange,apple,0.4
+blood orange,strawberry,0.3
+blood orange,grapefruit,0
+blood orange,currant,0.6
+blood orange,guava,0
+pineapple,lemon,0.8
+pineapple,orange,0.8
+pineapple,citrus fruit,0.7
+pineapple,lime,0.8
+pineapple,lime zest,0.6
+pineapple,blood orange,0.7
+pineapple,pineapple,1
+pineapple,apricot,0.4
+pineapple,litchi,0.5
+pineapple,black currant,0.4
+pineapple,raspberry,0.4
+pineapple,kiwi fruit,0.4
+pineapple,berry,0.5
+pineapple,banana,0.2
+pineapple,melon,0.1
+pineapple,apple,0.4
+pineapple,strawberry,0.2
+pineapple,grapefruit,0.1
+pineapple,currant,0.4
+pineapple,guava,0.1
+apricot,lemon,0.6
+apricot,orange,0.6
+apricot,citrus fruit,0.5
+apricot,lime,0.6
+apricot,lime zest,0.2
+apricot,blood orange,0.6
+apricot,pineapple,0.4
+apricot,apricot,1
+apricot,litchi,0.6
+apricot,black currant,0.5
+apricot,raspberry,0.5
+apricot,kiwi fruit,0.4
+apricot,berry,0.4
+apricot,banana,0.2
+apricot,melon,0.4
+apricot,apple,0.6
+apricot,strawberry,0.3
+apricot,grapefruit,0.2
+apricot,currant,0.5
+apricot,guava,0.4
+litchi,lemon,0.6
+litchi,orange,0.6
+litchi,citrus fruit,0.5
+litchi,lime,0.6
+litchi,lime zest,0.2
+litchi,blood orange,0.6
+litchi,pineapple,0.5
+litchi,apricot,0.6
+litchi,litchi,1
+litchi,black currant,0.5
+litchi,raspberry,0.6
+litchi,kiwi fruit,0.7
+litchi,berry,0.6
+litchi,banana,0.4
+litchi,melon,0.4
+litchi,apple,0.5
+litchi,strawberry,0.6
+litchi,grapefruit,0
+litchi,currant,0.5
+litchi,guava,0.4
+black currant,lemon,0.6
+black currant,orange,0.6
+black currant,citrus fruit,0.5
+black currant,lime,0.6
+black currant,lime zest,0.1
+black currant,blood orange,0.6
+black currant,pineapple,0.4
+black currant,apricot,0.5
+black currant,litchi,0.5
+black currant,black currant,1
+black currant,raspberry,0.5
+black currant,kiwi fruit,0.4
+black currant,berry,0.6
+black currant,banana,0.3
+black currant,melon,0.3
+black currant,apple,0.4
+black currant,strawberry,0.5
+black currant,grapefruit,0.1
+black currant,currant,1
+black currant,guava,0.3
+raspberry,lemon,0.5
+raspberry,orange,0.5
+raspberry,citrus fruit,0.4
+raspberry,lime,0.5
+raspberry,lime zest,0.1
+raspberry,blood orange,0.5
+raspberry,pineapple,0.4
+raspberry,apricot,0.5
+raspberry,litchi,0.6
+raspberry,black currant,0.5
+raspberry,raspberry,1
+raspberry,kiwi fruit,0.5
+raspberry,berry,0.6
+raspberry,banana,0.4
+raspberry,melon,0.5
+raspberry,apple,0.5
+raspberry,strawberry,0.6
+raspberry,grapefruit,0.1
+raspberry,currant,0.6
+raspberry,guava,0.3
+kiwi fruit,lemon,0.5
+kiwi fruit,orange,0.5
+kiwi fruit,citrus fruit,0.4
+kiwi fruit,lime,0.5
+kiwi fruit,lime zest,0.1
+kiwi fruit,blood orange,0.5
+kiwi fruit,pineapple,0.4
+kiwi fruit,apricot,0.4
+kiwi fruit,litchi,0.7
+kiwi fruit,black currant,0.4
+kiwi fruit,raspberry,0.5
+kiwi fruit,kiwi fruit,1
+kiwi fruit,berry,0.4
+kiwi fruit,banana,0.4
+kiwi fruit,melon,0.4
+kiwi fruit,apple,0.5
+kiwi fruit,strawberry,0.7
+kiwi fruit,grapefruit,0
+kiwi fruit,currant,0.6
+kiwi fruit,guava,0.5
+berry,lemon,0.4
+berry,orange,0.4
+berry,citrus fruit,0.3
+berry,lime,0.4
+berry,lime zest,0.05
+berry,blood orange,0.4
+berry,pineapple,0.5
+berry,apricot,0.4
+berry,litchi,0.6
+berry,black currant,0.6
+berry,raspberry,0.6
+berry,kiwi fruit,0.4
+berry,berry,1
+berry,banana,0.4
+berry,melon,0.6
+berry,apple,0.8
+berry,strawberry,0.5
+berry,grapefruit,0.1
+berry,currant,0.5
+berry,guava,0.6
+banana,lemon,0.1
+banana,orange,0.1
+banana,citrus fruit,0.1
+banana,lime,0.1
+banana,lime zest,0.05
+banana,blood orange,0.1
+banana,pineapple,0.2
+banana,apricot,0.2
+banana,litchi,0.4
+banana,black currant,0.3
+banana,raspberry,0.4
+banana,kiwi fruit,0.4
+banana,berry,0.4
+banana,banana,1
+banana,melon,0.5
+banana,apple,0.5
+banana,strawberry,0.4
+banana,grapefruit,0.1
+banana,currant,0.3
+banana,guava,0.5
+melon,lemon,0.35
+melon,orange,0.35
+melon,citrus fruit,0.25
+melon,lime,0.35
+melon,lime zest,0.2
+melon,blood orange,0.35
+melon,pineapple,0.1
+melon,apricot,0.4
+melon,litchi,0.4
+melon,black currant,0.3
+melon,raspberry,0.5
+melon,kiwi fruit,0.4
+melon,berry,0.6
+melon,banana,0.5
+melon,melon,1
+melon,apple,0.5
+melon,strawberry,0.4
+melon,grapefruit,0.1
+melon,currant,0.4
+melon,guava,0.3
+apple,lemon,0.4
+apple,orange,0.4
+apple,citrus fruit,0.3
+apple,lime,0.4
+apple,lime zest,0.1
+apple,blood orange,0.4
+apple,pineapple,0.4
+apple,apricot,0.6
+apple,litchi,0.5
+apple,black currant,0.4
+apple,raspberry,0.5
+apple,kiwi fruit,0.5
+apple,berry,0.8
+apple,banana,0.5
+apple,melon,0.5
+apple,apple,1
+apple,strawberry,0.6
+apple,grapefruit,0
+apple,currant,0.3
+apple,guava,0.3
+strawberry,lemon,0.3
+strawberry,orange,0.3
+strawberry,citrus fruit,0.2
+strawberry,lime,0.3
+strawberry,lime zest,0.1
+strawberry,blood orange,0.3
+strawberry,pineapple,0.2
+strawberry,apricot,0.3
+strawberry,litchi,0.6
+strawberry,black currant,0.5
+strawberry,raspberry,0.6
+strawberry,kiwi fruit,0.7
+strawberry,berry,0.5
+strawberry,banana,0.4
+strawberry,melon,0.4
+strawberry,apple,0.6
+strawberry,strawberry,1
+strawberry,grapefruit,0.1
+strawberry,currant,0.5
+strawberry,guava,0.4
+grapefruit,lemon,0
+grapefruit,orange,0
+grapefruit,citrus fruit,0
+grapefruit,lime,0
+grapefruit,lime zest,0.3
+grapefruit,blood orange,0
+grapefruit,pineapple,0.1
+grapefruit,apricot,0.2
+grapefruit,litchi,0
+grapefruit,black currant,0.1
+grapefruit,raspberry,0.1
+grapefruit,kiwi fruit,0
+grapefruit,berry,0.1
+grapefruit,banana,0.1
+grapefruit,melon,0.1
+grapefruit,apple,0
+grapefruit,strawberry,0.1
+grapefruit,grapefruit,1
+grapefruit,currant,0.1

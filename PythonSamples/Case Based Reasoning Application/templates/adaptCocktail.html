@@ -1,0 +1,43 @@
+{% extends "template.html" %}
+
+{% block content %}
+
+<div id="centrecontent">
+{% if name %}
+<font color="#E80000" size=3><label><b>Modify the Details</b></label></font>
+<form action="{{ url_for('Adapt') }}" method="post" name="Adapt" >
+<table>
+<tr>
+<td><label><b>Cocktail Name</b></label></td>
+<td><input type=text name="AdaptCName" value="{{name}}" /> </td>
+</tr>
+<tr>
+<td><label><b>Cocktail Ingredients</b></label></td>
+<td><textarea name="AdaptCIngredients"  rows="4" cols="50">{{IngredientData}}</textarea> </td>
+</tr>
+<tr>
+<td><label><b>Cocktail Preparation</b></label></td>
+<td><textarea name="AdaptCPreparation" rows="4" cols="50">{{PreparationData}}</textarea> </td>
+</tr>
+<tr>
+<input type=hidden name="AdaptName" value="true"/>
+<td><input value="Save" type="submit" /></td>
+<tr>
+</table>
+<pre>
+Tip : 	1.Enter new name for the modified Cocktail
+	2.Each ingredient should be separated by a comma.
+	3.Each preparation step should be separated by a full stop.
+	4.After editing click on Save button
+</pre>
+</form>
+{% elif Saved %}
+<font color="#E80000" size=3><label><b> New case adapted successfully !</b></label></font>
+{% else %}
+<font color="#E80000" size=3><label><b> Sorry, No cases selected to adapt !</b></label></font>
+{% endif %}
+
+
+</div>
+
+{% endblock %}

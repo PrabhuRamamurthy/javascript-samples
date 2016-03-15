@@ -1,0 +1,272 @@
+sugar,sugar,1
+sugar,cane sugar,0.9
+sugar,brown sugar,0.8
+sugar,granulated sugar,0.9
+sugar,vanilla sugar,0.7
+sugar,powdered sugar,1
+sugar,sour cream,0.2
+sugar,light whipping cream,0.4
+sugar,milk,0.5
+sugar,egg,0.1
+sugar,cinnamon,0.2
+sugar,anise basil,0.2
+sugar,salt,0
+sugar,celery salt,0
+sugar,pepper,0
+sugar,tabasco sauce,0
+cane sugar,sugar,0.9
+cane sugar,cane sugar,1
+cane sugar,brown sugar,0.9
+cane sugar,granulated sugar,0.8
+cane sugar,vanilla sugar,0.7
+cane sugar,powdered sugar,0.9
+cane sugar,sour cream,0.2
+cane sugar,light whipping cream,3
+cane sugar,milk,4
+cane sugar,egg,0
+cane sugar,cinnamon,1
+cane sugar,anise basil,1
+cane sugar,salt,0
+cane sugar,celery salt,0
+cane sugar,pepper,0
+cane sugar,tabasco sauce,0
+brown sugar,sugar,0.8
+brown sugar,cane sugar,0.9
+brown sugar,brown sugar,1
+brown sugar,granulated sugar,0.8
+brown sugar,vanilla sugar,0.9
+brown sugar,powdered sugar,0.9
+brown sugar,sour cream,0.1
+brown sugar,light whipping cream,0.1
+brown sugar,milk,0.5
+brown sugar,egg,0.1
+brown sugar,cinnamon,0.2
+brown sugar,anise basil,0.1
+brown sugar,salt,0
+brown sugar,celery salt,0
+brown sugar,pepper,0
+brown sugar,tabasco sauce,0
+granulated sugar,sugar,0.9
+granulated sugar,cane sugar,0.8
+granulated sugar,brown sugar,0.8
+granulated sugar,granulated sugar,1
+granulated sugar,vanilla sugar,0.8
+granulated sugar,powdered sugar,0.9
+granulated sugar,sour cream,0.1
+granulated sugar,light whipping cream,0.2
+granulated sugar,milk,0.1
+granulated sugar,egg,0.1
+granulated sugar,cinnamon,0.1
+granulated sugar,anise basil,0.1
+granulated sugar,salt,0
+granulated sugar,celery salt,0
+granulated sugar,pepper,0
+granulated sugar,tabasco sauce,0
+vanilla sugar,sugar,0.7
+vanilla sugar,cane sugar,0.7
+vanilla sugar,brown sugar,0.9
+vanilla sugar,granulated sugar,0.8
+vanilla sugar,vanilla sugar,1
+vanilla sugar,powdered sugar,0.8
+vanilla sugar,sour cream,0.2
+vanilla sugar,light whipping cream,0.2
+vanilla sugar,milk,0.1
+vanilla sugar,egg,0.1
+vanilla sugar,cinnamon,0.1
+vanilla sugar,anise basil,0.2
+vanilla sugar,salt,0
+vanilla sugar,celery salt,0
+vanilla sugar,pepper,0
+vanilla sugar,tabasco sauce,0
+powdered sugar,sugar,1
+powdered sugar,cane sugar,0.9
+powdered sugar,brown sugar,0.9
+powdered sugar,granulated sugar,0.9
+powdered sugar,vanilla sugar,0.8
+powdered sugar,powdered sugar,1
+powdered sugar,sour cream,0.1
+powdered sugar,light whipping cream,0.2
+powdered sugar,milk,0.3
+powdered sugar,egg,0
+powdered sugar,cinnamon,0.1
+powdered sugar,anise basil,0.1
+powdered sugar,salt,0
+powdered sugar,celery salt,0
+powdered sugar,pepper,0
+powdered sugar,tabasco sauce,0
+sour cream,sugar,0.2
+sour cream,cane sugar,0.2
+sour cream,brown sugar,0.1
+sour cream,granulated sugar,0.1
+sour cream,vanilla sugar,0.2
+sour cream,powdered sugar,0.1
+sour cream,sour cream,1
+sour cream,light whipping cream,0.8
+sour cream,milk,0.2
+sour cream,egg,0.2
+sour cream,cinnamon,0.1
+sour cream,anise basil,0.2
+sour cream,salt,0.1
+sour cream,celery salt,0.1
+sour cream,pepper,0.1
+sour cream,tabasco sauce,0.1
+light whipping cream,sugar,0.4
+light whipping cream,cane sugar,3
+light whipping cream,brown sugar,0.1
+light whipping cream,granulated sugar,0.2
+light whipping cream,vanilla sugar,0.2
+light whipping cream,powdered sugar,0.2
+light whipping cream,sour cream,0.8
+light whipping cream,light whipping cream,1
+light whipping cream,milk,0.1
+light whipping cream,egg,0.1
+light whipping cream,cinnamon,0.1
+light whipping cream,anise basil,0.2
+light whipping cream,salt,0.2
+light whipping cream,celery salt,0.2
+light whipping cream,pepper,0.1
+light whipping cream,tabasco sauce,0.1
+milk,sugar,0.5
+milk,cane sugar,4
+milk,brown sugar,0.5
+milk,granulated sugar,0.1
+milk,vanilla sugar,0.1
+milk,powdered sugar,0.3
+milk,sour cream,0.2
+milk,light whipping cream,0.1
+milk,milk,1
+milk,egg,0.2
+milk,cinnamon,0.3
+milk,anise basil,0.2
+milk,salt,0.1
+milk,celery salt,0.1
+milk,pepper,0.1
+milk,tabasco sauce,0.1
+egg,sugar,0.1
+egg,cane sugar,0
+egg,brown sugar,0.1
+egg,granulated sugar,0.1
+egg,vanilla sugar,0.1
+egg,powdered sugar,0
+egg,sour cream,0.2
+egg,light whipping cream,0.1
+egg,milk,0.2
+egg,egg,1
+egg,cinnamon,0
+egg,anise basil,0
+egg,salt,0
+egg,celery salt,0
+egg,pepper,0
+egg,tabasco sauce,0
+cinnamon,sugar,0.2
+cinnamon,cane sugar,1
+cinnamon,brown sugar,0.2
+cinnamon,granulated sugar,0.1
+cinnamon,vanilla sugar,0.1
+cinnamon,powdered sugar,0.1
+cinnamon,sour cream,0.1
+cinnamon,light whipping cream,0.1
+cinnamon,milk,0.3
+cinnamon,egg,0
+cinnamon,cinnamon,1
+cinnamon,anise basil,0.3
+cinnamon,salt,0.2
+cinnamon,celery salt,0.2
+cinnamon,pepper,0.1
+cinnamon,tabasco sauce,0.1
+anise basil,sugar,0.2
+anise basil,cane sugar,1
+anise basil,brown sugar,0.1
+anise basil,granulated sugar,0.1
+anise basil,vanilla sugar,0.2
+anise basil,powdered sugar,0.1
+anise basil,sour cream,0.2
+anise basil,light whipping cream,0.2
+anise basil,milk,0.2
+anise basil,egg,0
+anise basil,cinnamon,0.3
+anise basil,anise basil,1
+anise basil,salt,0.4
+anise basil,celery salt,0.5
+anise basil,pepper,0
+anise basil,tabasco sauce,0
+salt,sugar,0
+salt,cane sugar,0
+salt,brown sugar,0
+salt,granulated sugar,0
+salt,vanilla sugar,0
+salt,powdered sugar,0
+salt,sour cream,0.1
+salt,light whipping cream,0.2
+salt,milk,0.1
+salt,egg,0
+salt,cinnamon,0.2
+salt,anise basil,0.4
+salt,salt,1
+salt,celery salt,0.8
+salt,pepper,0.1
+salt,tabasco sauce,0.2
+celery salt,sugar,0
+celery salt,cane sugar,0
+celery salt,brown sugar,0
+celery salt,granulated sugar,0
+celery salt,vanilla sugar,0
+celery salt,powdered sugar,0
+celery salt,sour cream,0.1
+celery salt,light whipping cream,0.2
+celery salt,milk,0.1
+celery salt,egg,0
+celery salt,cinnamon,0.2
+celery salt,anise basil,0.5
+celery salt,salt,0.8
+celery salt,celery salt,1
+celery salt,pepper,0.2
+celery salt,tabasco sauce,0.1
+pepper,sugar,0
+pepper,cane sugar,0
+pepper,brown sugar,0
+pepper,granulated sugar,0
+pepper,vanilla sugar,0
+pepper,powdered sugar,0
+pepper,sour cream,0.1
+pepper,light whipping cream,0.1
+pepper,milk,0.1
+pepper,egg,0
+pepper,cinnamon,0.1
+pepper,anise basil,0
+pepper,salt,0.1
+pepper,celery salt,0.2
+pepper,pepper,1
+pepper,tabasco sauce,0.8
+nutmeg,sugar,0.1
+nutmeg,cane sugar,0.1
+nutmeg,brown sugar,0.1
+nutmeg,granulated sugar,0.1
+nutmeg,vanilla sugar,0.1
+nutmeg,powdered sugar,0.1
+nutmeg,sour cream,0.1
+nutmeg,light whipping cream,0.1
+nutmeg,milk,0.1
+nutmeg,egg,0
+nutmeg,cinnamon,0.6
+nutmeg,anise basil,0
+nutmeg,salt,0.2
+nutmeg,celery salt,0.1
+nutmeg,pepper,0.2
+nutmeg,tabasco sauce,0.2
+tabasco sauce,sugar,0
+tabasco sauce,cane sugar,0
+tabasco sauce,brown sugar,0
+tabasco sauce,granulated sugar,0
+tabasco sauce,vanilla sugar,0
+tabasco sauce,powdered sugar,0
+tabasco sauce,sour cream,0.1
+tabasco sauce,light whipping cream,0.1
+tabasco sauce,milk,0.1
+tabasco sauce,egg,0
+tabasco sauce,cinnamon,0.1
+tabasco sauce,anise basil,0
+tabasco sauce,salt,0.2
+tabasco sauce,celery salt,0.1
+tabasco sauce,pepper,0.8
+tabasco sauce,tabasco sauce,1

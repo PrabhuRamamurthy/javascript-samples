@@ -1,0 +1,64 @@
+cucumber,cucumber,1
+cucumber,mint,0.6
+cucumber,tomato,0.7
+cucumber,lemon grass,0.5
+cucumber,lime,0.4
+cucumber,coriander,0.5
+cucumber,wasabi,0.1
+cucumber,ginger,0
+mint,cucumber,0.6
+mint,mint,1
+mint,tomato,0.6
+mint,lemon grass,0.7
+mint,lime,0.5
+mint,coriander,0.8
+mint,wasabi,0.1
+mint,ginger,0.1
+tomato,cucumber,0.7
+tomato,mint,0.6
+tomato,tomato,1
+tomato,lemon grass,0.4
+tomato,lime,0.6
+tomato,coriander,0.4
+tomato,wasabi,0.1
+tomato,ginger,0.1
+lemon grass,cucumber,0.5
+lemon grass,mint,0.7
+lemon grass,tomato,0.4
+lemon grass,lemon grass,1
+lemon grass,lime,0.5
+lemon grass,coriander,0.8
+lemon grass,wasabi,0.2
+lemon grass,ginger,0
+lime,cucumber,0.4
+lime,mint,0.5
+lime,tomato,0.6
+lime,lemon grass,0.5
+lime,lime,1
+lime,coriander,0.2
+lime,wasabi,0
+lime,ginger,0.1
+coriander,cucumber,0.5
+coriander,mint,0.8
+coriander,tomato,0.4
+coriander,lemon grass,0.8
+coriander,lime,0.2
+coriander,coriander,1
+coriander,wasabi,0
+coriander,ginger,0
+wasabi,cucumber,0.1
+wasabi,mint,0.1
+wasabi,tomato,0.1
+wasabi,lemon grass,0.2
+wasabi,lime,0
+wasabi,coriander,0
+wasabi,wasabi,1
+wasabi,ginger,0.4
+ginger,cucumber,0
+ginger,mint,0.1
+ginger,tomato,0.1
+ginger,lemon grass,0
+ginger,lime,0.1
+ginger,coriander,0
+ginger,wasabi,0.4
+ginger,ginger,1

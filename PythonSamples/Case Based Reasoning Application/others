@@ -1,0 +1,25 @@
+ice cube,ice cube,1
+ice cube,ice cream,0.9
+ice cube,soda water,0.4
+ice cube,sparkling water,0.5
+ice cube,sparkling mineral water,0.4
+ice cream,ice cube,0.9
+ice cream,ice cream,1
+ice cream,soda water,0.4
+ice cream,sparkling water,0.4
+ice cream,sparkling mineral water,0.4
+soda water,ice cube,0.4
+soda water,ice cream,0.4
+soda water,soda water,1
+soda water,sparkling water,0.7
+soda water,sparkling mineral water,0.7
+sparkling water,ice cube,0.5
+sparkling water,ice cream,0.4
+sparkling water,soda water,0.7
+sparkling water,sparkling water,1
+sparkling water,sparkling mineral water,0.8
+sparkling mineral water,ice cube,0.4
+sparkling mineral water,ice cream,0.4
+sparkling mineral water,soda water,0.7
+sparkling mineral water,sparkling water,0.8
+sparkling mineral water,sparkling mineral water,1

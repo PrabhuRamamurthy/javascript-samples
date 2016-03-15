@@ -1,0 +1,83 @@
+{% extends "template.html" %}
+
+{% block content %}
+<div id="main">
+<div id="content">
+<div id="nav" style="width:50%" >
+<div id="class1">
+
+<font color="#E80000" size=3><label><b>Cocktail List</b></label></font>
+
+	{% if ItemList %}
+			<form action="{{ url_for('cocktailList') }}" method="post" name="cocktailList">
+			<table>
+			<tr>
+				<input type=hidden name="cocktailName" value="{{ItemList[0][0]}}"/>
+				<td width="200%"><button  type="submit" id="search" >{{ItemList[0][0]}}</button></td>
+			</tr>
+			</table>
+			</form>
+			<form action="{{ url_for('cocktailList') }}" method="post" name="cocktailList">
+			<table>
+			<tr>
+				<input type=hidden name="cocktailName" value="{{ItemList[1][0]}}"/>
+				<td width="200%"><button type="submit" id="search" >{{ItemList[1][0]}}</button></td>
+			</tr>
+			</table>
+			</form>
+			<form action="{{ url_for('cocktailList') }}" method="post" name="cocktailList">
+			<table>
+			<tr>
+				<input type=hidden name="cocktailName" value="{{ItemList[2][0]}}"/>
+				<td width="200%"><button  type="submit" id="search" >{{ItemList[2][0]}}</button></td>
+			</tr>
+			</table>
+			</form>
+
+	{% else %}
+		<table>
+		<tr>
+			</td>
+			<center>
+			<br />
+			<p>No Cases</p>
+			</center>
+			</td>
+		</tr>
+		</table>
+	{% endif %}
+	{% if cocktailname %}
+	<br/>
+	<font color="#E80000" size=3><label><b>Cocktail Details</b></label></font>
+	{% endif %}
+
+</div>
+</div>
+	<div id="maincontent">
+	<form action="{{ url_for('Adapt') }}" method="post" name="Adapt">
+	{% if cocktailname %}
+	<label><b>Cocktail Name</b></label> : {{cocktailname}}
+	{% endif %}
+	<br/><br/>
+	{% if IngredientData %}
+	<label><b>Ingredients </b></label> :{{IngredientData}}
+	{% endif %}
+	<br/><br/>
+	{% if PreparationData %}
+	<label><b>Preparation Steps</b></label> :{{PreparationData}}
+	{% endif %}
+	{% if cocktailname %}
+	<input type=hidden name="AdaptName" value="{{cocktailname}}"/>
+	<br/><br/>
+	<center><input type="submit" value="Adapt" ></center>
+	<br/>
+	<pre>
+Tip : 1.Click on the listed Cocktails to know their ingredients and Prepation steps
+	2.Click on Adapt to add new or modify selected cocktail information 
+	</pre>
+	</form>
+	{% endif %}
+	</div>
+</div>
+</div>
+{% endblock %}

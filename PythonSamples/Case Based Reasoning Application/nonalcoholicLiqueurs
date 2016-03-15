@@ -1,0 +1,1024 @@
+syrup,syrup,1
+syrup,apple juice,0.7
+syrup,Banana juice,0.6
+syrup,strawberry juice,0.8
+syrup,Creme de cassis,0.7
+syrup,Hard cider,0.7
+syrup,coconut milk,0.7
+syrup,apple cider,0.7
+syrup,orgeat syrup,0.6
+syrup,Lemonade,0.6
+syrup,Lime juice,0.5
+syrup,Orange juice,0.6
+syrup,pineapple juice,0.5
+syrup,Blue curacao,0.4
+syrup,cointreau,0.5
+syrup,grand marnier,0.5
+syrup,litchi juice,0.6
+syrup,Cranberry juice,0.4
+syrup,Apricot juice,0.4
+syrup,grenadine,0.4
+syrup,apricot liqueur,0.4
+syrup,worcestershire sauce,0.4
+syrup,berry juice,0.4
+syrup,Currant syrup,0.6
+syrup,Tamarin juice,0.2
+syrup,Mango juice,0.5
+syrup,passion fruit syrup,0.5
+syrup,Passion fruit juice,0.5
+syrup,rice milk,0.2
+syrup,grapefruit juice,0.1
+syrup,coffee liqueur,0.4
+syrup,coffee,0.4
+apple juice,syrup,0.7
+apple juice,apple juice,1
+apple juice,Banana juice,0.6
+apple juice,strawberry juice,0.7
+apple juice,Creme de cassis,0.7
+apple juice,Hard cider,1
+apple juice,coconut milk,0.6
+apple juice,apple cider,1
+apple juice,orgeat syrup,0.7
+apple juice,Lemonade,0.6
+apple juice,Lime juice,0.6
+apple juice,Orange juice,0.6
+apple juice,pineapple juice,0.6
+apple juice,Blue curacao,0.6
+apple juice,cointreau,0.6
+apple juice,grand marnier,0.5
+apple juice,litchi juice,0.4
+apple juice,Cranberry juice,0.4
+apple juice,Apricot juice,0.4
+apple juice,grenadine,0.4
+apple juice,apricot liqueur,0.4
+apple juice,worcestershire sauce,0.4
+apple juice,berry juice,0.4
+apple juice,Currant syrup,0.3
+apple juice,Tamarin juice,0.3
+apple juice,Mango juice,0.5
+apple juice,passion fruit syrup,0.4
+apple juice,Passion fruit juice,0.4
+apple juice,rice milk,0.2
+apple juice,grapefruit juice,0.1
+apple juice,coffee liqueur,0.3
+apple juice,coffee,0.3
+Banana juice,syrup,0.6
+Banana juice,apple juice,0.6
+Banana juice,Banana juice,1
+Banana juice,strawberry juice,0.5
+Banana juice,Creme de cassis,0.5
+Banana juice,Hard cider,0.6
+Banana juice,coconut milk,0.6
+Banana juice,apple cider,0.6
+Banana juice,orgeat syrup,0.5
+Banana juice,Lemonade,0.4
+Banana juice,Lime juice,0.4
+Banana juice,Orange juice,0.4
+Banana juice,pineapple juice,0.4
+Banana juice,Blue curacao,0.4
+Banana juice,cointreau,0.4
+Banana juice,grand marnier,0.4
+Banana juice,litchi juice,0.3
+Banana juice,Cranberry juice,0.3
+Banana juice,Apricot juice,0.3
+Banana juice,grenadine,0.3
+Banana juice,apricot liqueur,0.3
+Banana juice,worcestershire sauce,0.3
+Banana juice,berry juice,0.3
+Banana juice,Currant syrup,0.3
+Banana juice,Tamarin juice,0.2
+Banana juice,Mango juice,0.2
+Banana juice,passion fruit syrup,0.1
+Banana juice,Passion fruit juice,0.1
+Banana juice,rice milk,0.1
+Banana juice,grapefruit juice,0.2
+Banana juice,coffee liqueur,0.1
+Banana juice,coffee,0.1
+strawberry juice,syrup,0.8
+strawberry juice,apple juice,0.7
+strawberry juice,Banana juice,0.5
+strawberry juice,strawberry juice,1
+strawberry juice,Creme de cassis,0.6
+strawberry juice,Hard cider,0.7
+strawberry juice,coconut milk,0.7
+strawberry juice,apple cider,0.7
+strawberry juice,orgeat syrup,0.5
+strawberry juice,Lemonade,0.5
+strawberry juice,Lime juice,0.5
+strawberry juice,Orange juice,0.5
+strawberry juice,pineapple juice,0.5
+strawberry juice,Blue curacao,0.5
+strawberry juice,cointreau,0.5
+strawberry juice,grand marnier,0.5
+strawberry juice,litchi juice,0.4
+strawberry juice,Cranberry juice,0.5
+strawberry juice,Apricot juice,0.4
+strawberry juice,grenadine,0.4
+strawberry juice,apricot liqueur,0.4
+strawberry juice,worcestershire sauce,0.4
+strawberry juice,berry juice,0.4
+strawberry juice,Currant syrup,0.4
+strawberry juice,Tamarin juice,0.5
+strawberry juice,Mango juice,0.5
+strawberry juice,passion fruit syrup,0.2
+strawberry juice,Passion fruit juice,0.2
+strawberry juice,rice milk,0.1
+strawberry juice,grapefruit juice,0
+strawberry juice,coffee liqueur,0.3
+strawberry juice,coffee,0.3
+Creme de cassis,syrup,0.7
+Creme de cassis,apple juice,0.7
+Creme de cassis,Banana juice,0.5
+Creme de cassis,strawberry juice,0.6
+Creme de cassis,Creme de cassis,1
+Creme de cassis,Hard cider,0.8
+Creme de cassis,coconut milk,0.5
+Creme de cassis,apple cider,0.9
+Creme de cassis,orgeat syrup,0.7
+Creme de cassis,Lemonade,0.6
+Creme de cassis,Lime juice,0.6
+Creme de cassis,Orange juice,0.7
+Creme de cassis,pineapple juice,0.5
+Creme de cassis,Blue curacao,0.5
+Creme de cassis,cointreau,0.6
+Creme de cassis,grand marnier,0.5
+Creme de cassis,litchi juice,0.5
+Creme de cassis,Cranberry juice,0.5
+Creme de cassis,Apricot juice,0.4
+Creme de cassis,grenadine,0.4
+Creme de cassis,apricot liqueur,0.4
+Creme de cassis,worcestershire sauce,0.4
+Creme de cassis,berry juice,0.5
+Creme de cassis,Currant syrup,0.5
+Creme de cassis,Tamarin juice,0.5
+Creme de cassis,Mango juice,0.4
+Creme de cassis,passion fruit syrup,0.3
+Creme de cassis,Passion fruit juice,0.3
+Creme de cassis,rice milk,0.1
+Creme de cassis,grapefruit juice,0.2
+Creme de cassis,coffee liqueur,0.2
+Creme de cassis,coffee,0.2
+Hard cider,syrup,0.7
+Hard cider,apple juice,1
+Hard cider,Banana juice,0.6
+Hard cider,strawberry juice,0.7
+Hard cider,Creme de cassis,0.8
+Hard cider,Hard cider,1
+Hard cider,coconut milk,0.6
+Hard cider,apple cider,1
+Hard cider,orgeat syrup,0.7
+Hard cider,Lemonade,0.6
+Hard cider,Lime juice,0.6
+Hard cider,Orange juice,0.6
+Hard cider,pineapple juice,0.6
+Hard cider,Blue curacao,0.6
+Hard cider,cointreau,0.6
+Hard cider,grand marnier,0.5
+Hard cider,litchi juice,0.4
+Hard cider,Cranberry juice,0.4
+Hard cider,Apricot juice,0.4
+Hard cider,grenadine,0.4
+Hard cider,apricot liqueur,0.4
+Hard cider,worcestershire sauce,0.4
+Hard cider,berry juice,0.4
+Hard cider,Currant syrup,0.3
+Hard cider,Tamarin juice,0.3
+Hard cider,Mango juice,0.5
+Hard cider,passion fruit syrup,0.4
+Hard cider,Passion fruit juice,0.4
+Hard cider,rice milk,0.2
+Hard cider,grapefruit juice,0.1
+Hard cider,coffee liqueur,0.3
+Hard cider,coffee,0.3
+coconut milk,syrup,0.7
+coconut milk,apple juice,0.6
+coconut milk,Banana juice,0.6
+coconut milk,strawberry juice,0.7
+coconut milk,Creme de cassis,0.5
+coconut milk,Hard cider,0.6
+coconut milk,coconut milk,1
+coconut milk,apple cider,0.6
+coconut milk,orgeat syrup,0.5
+coconut milk,Lemonade,0.4
+coconut milk,Lime juice,0.4
+coconut milk,Orange juice,0.4
+coconut milk,pineapple juice,0.4
+coconut milk,Blue curacao,0.4
+coconut milk,cointreau,0.4
+coconut milk,grand marnier,0.4
+coconut milk,litchi juice,0.3
+coconut milk,Cranberry juice,0.3
+coconut milk,Apricot juice,0.3
+coconut milk,grenadine,0.3
+coconut milk,apricot liqueur,0.3
+coconut milk,worcestershire sauce,0.3
+coconut milk,berry juice,0.3
+coconut milk,Currant syrup,0.3
+coconut milk,Tamarin juice,0.2
+coconut milk,Mango juice,0.2
+coconut milk,passion fruit syrup,0.1
+coconut milk,Passion fruit juice,0.1
+coconut milk,rice milk,0.1
+coconut milk,grapefruit juice,0.2
+coconut milk,coffee liqueur,0.1
+coconut milk,coffee,0.1
+apple cider,syrup,0.7
+apple cider,apple juice,1
+apple cider,Banana juice,0.6
+apple cider,strawberry juice,0.7
+apple cider,Creme de cassis,0.9
+apple cider,Hard cider,1
+apple cider,coconut milk,0.6
+apple cider,apple cider,1
+apple cider,orgeat syrup,0.7
+apple cider,Lemonade,0.6
+apple cider,Lime juice,0.6
+apple cider,Orange juice,0.6
+apple cider,pineapple juice,0.6
+apple cider,Blue curacao,0.6
+apple cider,cointreau,0.6
+apple cider,grand marnier,0.5
+apple cider,litchi juice,0.4
+apple cider,Cranberry juice,0.4
+apple cider,Apricot juice,0.4
+apple cider,grenadine,0.4
+apple cider,apricot liqueur,0.4
+apple cider,worcestershire sauce,0.4
+apple cider,berry juice,0.4
+apple cider,Currant syrup,0.3
+apple cider,Tamarin juice,0.3
+apple cider,Mango juice,0.5
+apple cider,passion fruit syrup,0.4
+apple cider,Passion fruit juice,0.4
+apple cider,rice milk,0.2
+apple cider,grapefruit juice,0.1
+apple cider,coffee liqueur,0.3
+apple cider,coffee,0.3
+orgeat syrup,syrup,0.6
+orgeat syrup,apple juice,0.7
+orgeat syrup,Banana juice,0.5
+orgeat syrup,strawberry juice,0.5
+orgeat syrup,Creme de cassis,0.7
+orgeat syrup,Hard cider,0.7
+orgeat syrup,coconut milk,0.5
+orgeat syrup,apple cider,0.7
+orgeat syrup,orgeat syrup,1
+orgeat syrup,Lemonade,0.8
+orgeat syrup,Lime juice,0.8
+orgeat syrup,Orange juice,0.8
+orgeat syrup,pineapple juice,0.7
+orgeat syrup,Blue curacao,0.7
+orgeat syrup,cointreau,0.7
+orgeat syrup,grand marnier,0.7
+orgeat syrup,litchi juice,0.5
+orgeat syrup,Cranberry juice,0.5
+orgeat syrup,Apricot juice,0.5
+orgeat syrup,grenadine,0.4
+orgeat syrup,apricot liqueur,0.4
+orgeat syrup,worcestershire sauce,0.4
+orgeat syrup,berry juice,0.4
+orgeat syrup,Currant syrup,0.4
+orgeat syrup,Tamarin juice,0.3
+orgeat syrup,Mango juice,0.3
+orgeat syrup,passion fruit syrup,0.2
+orgeat syrup,Passion fruit juice,0.2
+orgeat syrup,rice milk,0.1
+orgeat syrup,grapefruit juice,0.1
+orgeat syrup,coffee liqueur,0.4
+orgeat syrup,coffee,0.4
+Lemonade,syrup,0.6
+Lemonade,apple juice,0.6
+Lemonade,Banana juice,0.4
+Lemonade,strawberry juice,0.5
+Lemonade,Creme de cassis,0.6
+Lemonade,Hard cider,0.6
+Lemonade,coconut milk,0.4
+Lemonade,apple cider,0.6
+Lemonade,orgeat syrup,0.8
+Lemonade,Lemonade,1
+Lemonade,Lime juice,0.8
+Lemonade,Orange juice,0.8
+Lemonade,pineapple juice,0.7
+Lemonade,Blue curacao,0.7
+Lemonade,cointreau,0.7
+Lemonade,grand marnier,0.7
+Lemonade,litchi juice,0.5
+Lemonade,Cranberry juice,0.5
+Lemonade,Apricot juice,0.5
+Lemonade,grenadine,0.4
+Lemonade,apricot liqueur,0.4
+Lemonade,worcestershire sauce,0.4
+Lemonade,berry juice,0.4
+Lemonade,Currant syrup,0.4
+Lemonade,Tamarin juice,0.3
+Lemonade,Mango juice,0.3
+Lemonade,passion fruit syrup,0.2
+Lemonade,Passion fruit juice,0.2
+Lemonade,rice milk,0.1
+Lemonade,grapefruit juice,0.1
+Lemonade,coffee liqueur,0.4
+Lemonade,coffee,0.4
+Lime juice,syrup,0.5
+Lime juice,apple juice,0.6
+Lime juice,Banana juice,0.4
+Lime juice,strawberry juice,0.5
+Lime juice,Creme de cassis,0.6
+Lime juice,Hard cider,0.6
+Lime juice,coconut milk,0.4
+Lime juice,apple cider,0.6
+Lime juice,orgeat syrup,0.8
+Lime juice,Lemonade,0.8
+Lime juice,Lime juice,1
+Lime juice,Orange juice,0.8
+Lime juice,pineapple juice,0.7
+Lime juice,Blue curacao,0.7
+Lime juice,cointreau,0.7
+Lime juice,grand marnier,0.7
+Lime juice,litchi juice,0.5
+Lime juice,Cranberry juice,0.5
+Lime juice,Apricot juice,0.5
+Lime juice,grenadine,0.4
+Lime juice,apricot liqueur,0.4
+Lime juice,worcestershire sauce,0.4
+Lime juice,berry juice,0.4
+Lime juice,Currant syrup,0.4
+Lime juice,Tamarin juice,0.3
+Lime juice,Mango juice,0.3
+Lime juice,passion fruit syrup,0.2
+Lime juice,Passion fruit juice,0.2
+Lime juice,rice milk,0.1
+Lime juice,grapefruit juice,0.1
+Lime juice,coffee liqueur,0.4
+Lime juice,coffee,0.4
+Orange juice,syrup,0.6
+Orange juice,apple juice,0.6
+Orange juice,Banana juice,0.4
+Orange juice,strawberry juice,0.5
+Orange juice,Creme de cassis,0.7
+Orange juice,Hard cider,0.6
+Orange juice,coconut milk,0.4
+Orange juice,apple cider,0.6
+Orange juice,orgeat syrup,0.8
+Orange juice,Lemonade,0.8
+Orange juice,Lime juice,0.8
+Orange juice,Orange juice,1
+Orange juice,pineapple juice,0.7
+Orange juice,Blue curacao,0.7
+Orange juice,cointreau,0.7
+Orange juice,grand marnier,0.7
+Orange juice,litchi juice,0.5
+Orange juice,Cranberry juice,0.5
+Orange juice,Apricot juice,0.5
+Orange juice,grenadine,0.4
+Orange juice,apricot liqueur,0.4
+Orange juice,worcestershire sauce,0.4
+Orange juice,berry juice,0.4
+Orange juice,Currant syrup,0.4
+Orange juice,Tamarin juice,0.3
+Orange juice,Mango juice,0.3
+Orange juice,passion fruit syrup,0.2
+Orange juice,Passion fruit juice,0.2
+Orange juice,rice milk,0.1
+Orange juice,grapefruit juice,0.1
+Orange juice,coffee liqueur,0.4
+Orange juice,coffee,0.4
+pineapple juice,syrup,0.5
+pineapple juice,apple juice,0.6
+pineapple juice,Banana juice,0.4
+pineapple juice,strawberry juice,0.5
+pineapple juice,Creme de cassis,0.5
+pineapple juice,Hard cider,0.6
+pineapple juice,coconut milk,0.4
+pineapple juice,apple cider,0.6
+pineapple juice,orgeat syrup,0.7
+pineapple juice,Lemonade,0.7
+pineapple juice,Lime juice,0.7
+pineapple juice,Orange juice,0.7
+pineapple juice,pineapple juice,1
+pineapple juice,Blue curacao,0.7
+pineapple juice,cointreau,0.6
+pineapple juice,grand marnier,0.6
+pineapple juice,litchi juice,0.6
+pineapple juice,Cranberry juice,0.5
+pineapple juice,Apricot juice,0.4
+pineapple juice,grenadine,0.4
+pineapple juice,apricot liqueur,0.4
+pineapple juice,worcestershire sauce,0.3
+pineapple juice,berry juice,0.3
+pineapple juice,Currant syrup,0.3
+pineapple juice,Tamarin juice,0.5
+pineapple juice,Mango juice,0.6
+pineapple juice,passion fruit syrup,0.2
+pineapple juice,Passion fruit juice,0.2
+pineapple juice,rice milk,0.1
+pineapple juice,grapefruit juice,0
+pineapple juice,coffee liqueur,0.3
+pineapple juice,coffee,0.3
+Blue curacao,syrup,0.4
+Blue curacao,apple juice,0.6
+Blue curacao,Banana juice,0.4
+Blue curacao,strawberry juice,0.5
+Blue curacao,Creme de cassis,0.5
+Blue curacao,Hard cider,0.6
+Blue curacao,coconut milk,0.4
+Blue curacao,apple cider,0.6
+Blue curacao,orgeat syrup,0.7
+Blue curacao,Lemonade,0.7
+Blue curacao,Lime juice,0.7
+Blue curacao,Orange juice,0.7
+Blue curacao,pineapple juice,0.7
+Blue curacao,Blue curacao,1
+Blue curacao,cointreau,0.6
+Blue curacao,grand marnier,0.6
+Blue curacao,litchi juice,0.6
+Blue curacao,Cranberry juice,0.5
+Blue curacao,Apricot juice,0.4
+Blue curacao,grenadine,0.4
+Blue curacao,apricot liqueur,0.4
+Blue curacao,worcestershire sauce,0.3
+Blue curacao,berry juice,0.3
+Blue curacao,Currant syrup,0.3
+Blue curacao,Tamarin juice,0.5
+Blue curacao,Mango juice,0.6
+Blue curacao,passion fruit syrup,0.2
+Blue curacao,Passion fruit juice,0.2
+Blue curacao,rice milk,0.1
+Blue curacao,grapefruit juice,0
+Blue curacao,coffee liqueur,0.3
+Blue curacao,coffee,0.3
+cointreau,syrup,0.5
+cointreau,apple juice,0.6
+cointreau,Banana juice,0.4
+cointreau,strawberry juice,0.5
+cointreau,Creme de cassis,0.6
+cointreau,Hard cider,0.6
+cointreau,coconut milk,0.4
+cointreau,apple cider,0.6
+cointreau,orgeat syrup,0.7
+cointreau,Lemonade,0.7
+cointreau,Lime juice,0.7
+cointreau,Orange juice,0.7
+cointreau,pineapple juice,0.6
+cointreau,Blue curacao,0.6
+cointreau,cointreau,1
+cointreau,grand marnier,0.6
+cointreau,litchi juice,0.6
+cointreau,Cranberry juice,0.5
+cointreau,Apricot juice,0.4
+cointreau,grenadine,0.4
+cointreau,apricot liqueur,0.4
+cointreau,worcestershire sauce,0.3
+cointreau,berry juice,0.3
+cointreau,Currant syrup,0.3
+cointreau,Tamarin juice,0.5
+cointreau,Mango juice,0.6
+cointreau,passion fruit syrup,0.2
+cointreau,Passion fruit juice,0.2
+cointreau,rice milk,0.1
+cointreau,grapefruit juice,0
+cointreau,coffee liqueur,0.3
+cointreau,coffee,0.3
+grand marnier,syrup,0.5
+grand marnier,apple juice,0.5
+grand marnier,Banana juice,0.4
+grand marnier,strawberry juice,0.5
+grand marnier,Creme de cassis,0.5
+grand marnier,Hard cider,0.5
+grand marnier,coconut milk,0.4
+grand marnier,apple cider,0.5
+grand marnier,orgeat syrup,0.7
+grand marnier,Lemonade,0.7
+grand marnier,Lime juice,0.7
+grand marnier,Orange juice,0.7
+grand marnier,pineapple juice,0.6
+grand marnier,Blue curacao,0.6
+grand marnier,cointreau,0.6
+grand marnier,grand marnier,1
+grand marnier,litchi juice,0.6
+grand marnier,Cranberry juice,0.5
+grand marnier,Apricot juice,0.4
+grand marnier,grenadine,0.4
+grand marnier,apricot liqueur,0.4
+grand marnier,worcestershire sauce,0.3
+grand marnier,berry juice,0.3
+grand marnier,Currant syrup,0.3
+grand marnier,Tamarin juice,0.5
+grand marnier,Mango juice,0.6
+grand marnier,passion fruit syrup,0.2
+grand marnier,Passion fruit juice,0.2
+grand marnier,rice milk,0.1
+grand marnier,grapefruit juice,0
+grand marnier,coffee liqueur,0.3
+grand marnier,coffee,0.3
+litchi juice,syrup,0.6
+litchi juice,apple juice,0.4
+litchi juice,Banana juice,0.3
+litchi juice,strawberry juice,0.4
+litchi juice,Creme de cassis,0.5
+litchi juice,Hard cider,0.4
+litchi juice,coconut milk,0.3
+litchi juice,apple cider,0.4
+litchi juice,orgeat syrup,0.5
+litchi juice,Lemonade,0.5
+litchi juice,Lime juice,0.5
+litchi juice,Orange juice,0.5
+litchi juice,pineapple juice,0.6
+litchi juice,Blue curacao,0.6
+litchi juice,cointreau,0.6
+litchi juice,grand marnier,0.6
+litchi juice,litchi juice,1
+litchi juice,Cranberry juice,0.5
+litchi juice,Apricot juice,0.4
+litchi juice,grenadine,0.4
+litchi juice,apricot liqueur,0.4
+litchi juice,worcestershire sauce,0.3
+litchi juice,berry juice,0.3
+litchi juice,Currant syrup,0.3
+litchi juice,Tamarin juice,0.5
+litchi juice,Mango juice,0.6
+litchi juice,passion fruit syrup,0.2
+litchi juice,Passion fruit juice,0.2
+litchi juice,rice milk,0.1
+litchi juice,grapefruit juice,0
+litchi juice,coffee liqueur,0.3
+litchi juice,coffee,0.3
+Cranberry juice,syrup,0.4
+Cranberry juice,apple juice,0.4
+Cranberry juice,Banana juice,0.3
+Cranberry juice,strawberry juice,0.5
+Cranberry juice,Creme de cassis,0.5
+Cranberry juice,Hard cider,0.4
+Cranberry juice,coconut milk,0.3
+Cranberry juice,apple cider,0.4
+Cranberry juice,orgeat syrup,0.5
+Cranberry juice,Lemonade,0.5
+Cranberry juice,Lime juice,0.5
+Cranberry juice,Orange juice,0.5
+Cranberry juice,pineapple juice,0.5
+Cranberry juice,Blue curacao,0.5
+Cranberry juice,cointreau,0.5
+Cranberry juice,grand marnier,0.5
+Cranberry juice,litchi juice,0.5
+Cranberry juice,Cranberry juice,1
+Cranberry juice,Apricot juice,0.4
+Cranberry juice,grenadine,0.4
+Cranberry juice,apricot liqueur,0.4
+Cranberry juice,worcestershire sauce,0.3
+Cranberry juice,berry juice,0.3
+Cranberry juice,Currant syrup,0.3
+Cranberry juice,Tamarin juice,0.5
+Cranberry juice,Mango juice,0.6
+Cranberry juice,passion fruit syrup,0.2
+Cranberry juice,Passion fruit juice,0.2
+Cranberry juice,rice milk,0.1
+Cranberry juice,grapefruit juice,0
+Cranberry juice,coffee liqueur,0.3
+Cranberry juice,coffee,0.3
+Apricot juice,syrup,0.4
+Apricot juice,apple juice,0.4
+Apricot juice,Banana juice,0.3
+Apricot juice,strawberry juice,0.4
+Apricot juice,Creme de cassis,0.4
+Apricot juice,Hard cider,0.4
+Apricot juice,coconut milk,0.3
+Apricot juice,apple cider,0.4
+Apricot juice,orgeat syrup,0.5
+Apricot juice,Lemonade,0.5
+Apricot juice,Lime juice,0.5
+Apricot juice,Orange juice,0.5
+Apricot juice,pineapple juice,0.4
+Apricot juice,Blue curacao,0.4
+Apricot juice,cointreau,0.4
+Apricot juice,grand marnier,0.4
+Apricot juice,litchi juice,0.4
+Apricot juice,Cranberry juice,0.4
+Apricot juice,Apricot juice,1
+Apricot juice,grenadine,0.6
+Apricot juice,apricot liqueur,0.6
+Apricot juice,worcestershire sauce,0.6
+Apricot juice,berry juice,0.6
+Apricot juice,Currant syrup,0.5
+Apricot juice,Tamarin juice,0.5
+Apricot juice,Mango juice,0.5
+Apricot juice,passion fruit syrup,0.3
+Apricot juice,Passion fruit juice,0.3
+Apricot juice,rice milk,0.1
+Apricot juice,grapefruit juice,0.1
+Apricot juice,coffee liqueur,0.3
+Apricot juice,coffee,0.3
+grenadine,syrup,0.4
+grenadine,apple juice,0.4
+grenadine,Banana juice,0.3
+grenadine,strawberry juice,0.4
+grenadine,Creme de cassis,0.4
+grenadine,Hard cider,0.4
+grenadine,coconut milk,0.3
+grenadine,apple cider,0.4
+grenadine,orgeat syrup,0.4
+grenadine,Lemonade,0.4
+grenadine,Lime juice,0.4
+grenadine,Orange juice,0.4
+grenadine,pineapple juice,0.4
+grenadine,Blue curacao,0.4
+grenadine,cointreau,0.4
+grenadine,grand marnier,0.4
+grenadine,litchi juice,0.4
+grenadine,Cranberry juice,0.4
+grenadine,Apricot juice,0.6
+grenadine,grenadine,1
+grenadine,apricot liqueur,0.6
+grenadine,worcestershire sauce,0.6
+grenadine,berry juice,0.6
+grenadine,Currant syrup,0.6
+grenadine,Tamarin juice,0.5
+grenadine,Mango juice,0.5
+grenadine,passion fruit syrup,0.3
+grenadine,Passion fruit juice,0.3
+grenadine,rice milk,0.1
+grenadine,grapefruit juice,0.1
+grenadine,coffee liqueur,0.3
+grenadine,coffee,0.3
+apricot liqueur,syrup,0.4
+apricot liqueur,apple juice,0.4
+apricot liqueur,Banana juice,0.3
+apricot liqueur,strawberry juice,0.4
+apricot liqueur,Creme de cassis,0.4
+apricot liqueur,Hard cider,0.4
+apricot liqueur,coconut milk,0.3
+apricot liqueur,apple cider,0.4
+apricot liqueur,orgeat syrup,0.4
+apricot liqueur,Lemonade,0.4
+apricot liqueur,Lime juice,0.4
+apricot liqueur,Orange juice,0.4
+apricot liqueur,pineapple juice,0.4
+apricot liqueur,Blue curacao,0.4
+apricot liqueur,cointreau,0.4
+apricot liqueur,grand marnier,0.4
+apricot liqueur,litchi juice,0.4
+apricot liqueur,Cranberry juice,0.4
+apricot liqueur,Apricot juice,0.6
+apricot liqueur,grenadine,0.6
+apricot liqueur,apricot liqueur,1
+apricot liqueur,worcestershire sauce,0.6
+apricot liqueur,berry juice,0.6
+apricot liqueur,Currant syrup,0.6
+apricot liqueur,Tamarin juice,0.5
+apricot liqueur,Mango juice,0.5
+apricot liqueur,passion fruit syrup,0.4
+apricot liqueur,Passion fruit juice,0.4
+apricot liqueur,rice milk,0.3
+apricot liqueur,grapefruit juice,0.2
+apricot liqueur,coffee liqueur,0.3
+apricot liqueur,coffee,0.3
+worcestershire sauce,syrup,0.4
+worcestershire sauce,apple juice,0.4
+worcestershire sauce,Banana juice,0.3
+worcestershire sauce,strawberry juice,0.4
+worcestershire sauce,Creme de cassis,0.4
+worcestershire sauce,Hard cider,0.4
+worcestershire sauce,coconut milk,0.3
+worcestershire sauce,apple cider,0.4
+worcestershire sauce,orgeat syrup,0.4
+worcestershire sauce,Lemonade,0.4
+worcestershire sauce,Lime juice,0.4
+worcestershire sauce,Orange juice,0.4
+worcestershire sauce,pineapple juice,0.3
+worcestershire sauce,Blue curacao,0.3
+worcestershire sauce,cointreau,0.3
+worcestershire sauce,grand marnier,0.3
+worcestershire sauce,litchi juice,0.3
+worcestershire sauce,Cranberry juice,0.3
+worcestershire sauce,Apricot juice,0.6
+worcestershire sauce,grenadine,0.6
+worcestershire sauce,apricot liqueur,0.6
+worcestershire sauce,worcestershire sauce,1
+worcestershire sauce,berry juice,0.5
+worcestershire sauce,Currant syrup,0.5
+worcestershire sauce,Tamarin juice,0.4
+worcestershire sauce,Mango juice,0.4
+worcestershire sauce,passion fruit syrup,0.3
+worcestershire sauce,Passion fruit juice,0.3
+worcestershire sauce,rice milk,0.2
+worcestershire sauce,grapefruit juice,0.1
+worcestershire sauce,coffee liqueur,0.2
+worcestershire sauce,coffee,0.2
+berry juice,syrup,0.4
+berry juice,apple juice,0.4
+berry juice,Banana juice,0.3
+berry juice,strawberry juice,0.4
+berry juice,Creme de cassis,0.5
+berry juice,Hard cider,0.4
+berry juice,coconut milk,0.3
+berry juice,apple cider,0.4
+berry juice,orgeat syrup,0.4
+berry juice,Lemonade,0.4
+berry juice,Lime juice,0.4
+berry juice,Orange juice,0.4
+berry juice,pineapple juice,0.3
+berry juice,Blue curacao,0.3
+berry juice,cointreau,0.3
+berry juice,grand marnier,0.3
+berry juice,litchi juice,0.3
+berry juice,Cranberry juice,0.3
+berry juice,Apricot juice,0.6
+berry juice,grenadine,0.6
+berry juice,apricot liqueur,0.6
+berry juice,worcestershire sauce,0.5
+berry juice,berry juice,1
+berry juice,Currant syrup,0.5
+berry juice,Tamarin juice,0.6
+berry juice,Mango juice,0.7
+berry juice,passion fruit syrup,0.3
+berry juice,Passion fruit juice,0.3
+berry juice,rice milk,0.1
+berry juice,grapefruit juice,0.1
+berry juice,coffee liqueur,0.3
+berry juice,coffee,0.3
+Currant syrup,syrup,0.6
+Currant syrup,apple juice,0.3
+Currant syrup,Banana juice,0.3
+Currant syrup,strawberry juice,0.4
+Currant syrup,Creme de cassis,0.5
+Currant syrup,Hard cider,0.3
+Currant syrup,coconut milk,0.3
+Currant syrup,apple cider,0.3
+Currant syrup,orgeat syrup,0.4
+Currant syrup,Lemonade,0.4
+Currant syrup,Lime juice,0.4
+Currant syrup,Orange juice,0.4
+Currant syrup,pineapple juice,0.3
+Currant syrup,Blue curacao,0.3
+Currant syrup,cointreau,0.3
+Currant syrup,grand marnier,0.3
+Currant syrup,litchi juice,0.3
+Currant syrup,Cranberry juice,0.3
+Currant syrup,Apricot juice,0.5
+Currant syrup,grenadine,0.6
+Currant syrup,apricot liqueur,0.6
+Currant syrup,worcestershire sauce,0.5
+Currant syrup,berry juice,0.5
+Currant syrup,Currant syrup,1
+Currant syrup,Tamarin juice,0.5
+Currant syrup,Mango juice,0.5
+Currant syrup,passion fruit syrup,0.4
+Currant syrup,Passion fruit juice,0.4
+Currant syrup,rice milk,0.2
+Currant syrup,grapefruit juice,0.2
+Currant syrup,coffee liqueur,0.6
+Currant syrup,coffee,0.6
+Tamarin juice,syrup,0.2
+Tamarin juice,apple juice,0.3
+Tamarin juice,Banana juice,0.2
+Tamarin juice,strawberry juice,0.5
+Tamarin juice,Creme de cassis,0.5
+Tamarin juice,Hard cider,0.3
+Tamarin juice,coconut milk,0.2
+Tamarin juice,apple cider,0.3
+Tamarin juice,orgeat syrup,0.3
+Tamarin juice,Lemonade,0.3
+Tamarin juice,Lime juice,0.3
+Tamarin juice,Orange juice,0.3
+Tamarin juice,pineapple juice,0.5
+Tamarin juice,Blue curacao,0.5
+Tamarin juice,cointreau,0.5
+Tamarin juice,grand marnier,0.5
+Tamarin juice,litchi juice,0.5
+Tamarin juice,Cranberry juice,0.5
+Tamarin juice,Apricot juice,0.5
+Tamarin juice,grenadine,0.5
+Tamarin juice,apricot liqueur,0.5
+Tamarin juice,worcestershire sauce,0.4
+Tamarin juice,berry juice,0.6
+Tamarin juice,Currant syrup,0.5
+Tamarin juice,Tamarin juice,1
+Tamarin juice,Mango juice,0.5
+Tamarin juice,passion fruit syrup,0.2
+Tamarin juice,Passion fruit juice,0.2
+Tamarin juice,rice milk,0.1
+Tamarin juice,grapefruit juice,0.1
+Tamarin juice,coffee liqueur,0.2
+Tamarin juice,coffee,0.2
+Mango juice,syrup,0.5
+Mango juice,apple juice,0.5
+Mango juice,Banana juice,0.2
+Mango juice,strawberry juice,0.5
+Mango juice,Creme de cassis,0.4
+Mango juice,Hard cider,0.5
+Mango juice,coconut milk,0.2
+Mango juice,apple cider,0.5
+Mango juice,orgeat syrup,0.3
+Mango juice,Lemonade,0.3
+Mango juice,Lime juice,0.3
+Mango juice,Orange juice,0.3
+Mango juice,pineapple juice,0.6
+Mango juice,Blue curacao,0.6
+Mango juice,cointreau,0.6
+Mango juice,grand marnier,0.6
+Mango juice,litchi juice,0.6
+Mango juice,Cranberry juice,0.6
+Mango juice,Apricot juice,0.5
+Mango juice,grenadine,0.5
+Mango juice,apricot liqueur,0.5
+Mango juice,worcestershire sauce,0.4
+Mango juice,berry juice,0.7
+Mango juice,Currant syrup,0.5
+Mango juice,Tamarin juice,0.5
+Mango juice,Mango juice,1
+Mango juice,passion fruit syrup,0.1
+Mango juice,Passion fruit juice,0.1
+Mango juice,rice milk,0.05
+Mango juice,grapefruit juice,0.1
+Mango juice,coffee liqueur,0.2
+Mango juice,coffee,0.2
+passion fruit syrup,syrup,0.5
+passion fruit syrup,apple juice,0.4
+passion fruit syrup,Banana juice,0.1
+passion fruit syrup,strawberry juice,0.2
+passion fruit syrup,Creme de cassis,0.3
+passion fruit syrup,Hard cider,0.4
+passion fruit syrup,coconut milk,0.1
+passion fruit syrup,apple cider,0.4
+passion fruit syrup,orgeat syrup,0.2
+passion fruit syrup,Lemonade,0.2
+passion fruit syrup,Lime juice,0.2
+passion fruit syrup,Orange juice,0.2
+passion fruit syrup,pineapple juice,0.2
+passion fruit syrup,Blue curacao,0.2
+passion fruit syrup,cointreau,0.2
+passion fruit syrup,grand marnier,0.2
+passion fruit syrup,litchi juice,0.2
+passion fruit syrup,Cranberry juice,0.2
+passion fruit syrup,Apricot juice,0.3
+passion fruit syrup,grenadine,0.3
+passion fruit syrup,apricot liqueur,0.4
+passion fruit syrup,worcestershire sauce,0.3
+passion fruit syrup,berry juice,0.3
+passion fruit syrup,Currant syrup,0.4
+passion fruit syrup,Tamarin juice,0.2
+passion fruit syrup,Mango juice,0.1
+passion fruit syrup,passion fruit syrup,1
+passion fruit syrup,Passion fruit juice,1
+passion fruit syrup,rice milk,0.5
+passion fruit syrup,grapefruit juice,0.2
+passion fruit syrup,coffee liqueur,0.5
+passion fruit syrup,coffee,0.5
+Passion fruit juice,syrup,0.5
+Passion fruit juice,apple juice,0.4
+Passion fruit juice,Banana juice,0.1
+Passion fruit juice,strawberry juice,0.2
+Passion fruit juice,Creme de cassis,0.3
+Passion fruit juice,Hard cider,0.4
+Passion fruit juice,coconut milk,0.1
+Passion fruit juice,apple cider,0.4
+Passion fruit juice,orgeat syrup,0.2
+Passion fruit juice,Lemonade,0.2
+Passion fruit juice,Lime juice,0.2
+Passion fruit juice,Orange juice,0.2
+Passion fruit juice,pineapple juice,0.2
+Passion fruit juice,Blue curacao,0.2
+Passion fruit juice,cointreau,0.2
+Passion fruit juice,grand marnier,0.2
+Passion fruit juice,litchi juice,0.2
+Passion fruit juice,Cranberry juice,0.2
+Passion fruit juice,Apricot juice,0.3
+Passion fruit juice,grenadine,0.3
+Passion fruit juice,apricot liqueur,0.4
+Passion fruit juice,worcestershire sauce,0.3
+Passion fruit juice,berry juice,0.3
+Passion fruit juice,Currant syrup,0.4
+Passion fruit juice,Tamarin juice,0.2
+Passion fruit juice,Mango juice,0.1
+Passion fruit juice,passion fruit syrup,1
+Passion fruit juice,Passion fruit juice,1
+Passion fruit juice,rice milk,0.6
+Passion fruit juice,grapefruit juice,0.5
+Passion fruit juice,coffee liqueur,0.4
+Passion fruit juice,coffee,0.4
+rice milk,syrup,0.2
+rice milk,apple juice,0.2
+rice milk,Banana juice,0.1
+rice milk,strawberry juice,0.1
+rice milk,Creme de cassis,0.1
+rice milk,Hard cider,0.2
+rice milk,coconut milk,0.1
+rice milk,apple cider,0.2
+rice milk,orgeat syrup,0.1
+rice milk,Lemonade,0.1
+rice milk,Lime juice,0.1
+rice milk,Orange juice,0.1
+rice milk,pineapple juice,0.1
+rice milk,Blue curacao,0.1
+rice milk,cointreau,0.1
+rice milk,grand marnier,0.1
+rice milk,litchi juice,0.1
+rice milk,Cranberry juice,0.1
+rice milk,Apricot juice,0.1
+rice milk,grenadine,0.1
+rice milk,apricot liqueur,0.3
+rice milk,worcestershire sauce,0.2
+rice milk,berry juice,0.1
+rice milk,Currant syrup,0.2
+rice milk,Tamarin juice,0.1
+rice milk,Mango juice,0.05
+rice milk,passion fruit syrup,0.5
+rice milk,Passion fruit juice,0.6
+rice milk,rice milk,1
+rice milk,grapefruit juice,0.2
+rice milk,coffee liqueur,0.2
+rice milk,coffee,0.2
+grapefruit juice,syrup,0.1
+grapefruit juice,apple juice,0.1
+grapefruit juice,Banana juice,0.2
+grapefruit juice,strawberry juice,0
+grapefruit juice,Creme de cassis,0.2
+grapefruit juice,Hard cider,0.1
+grapefruit juice,coconut milk,0.2
+grapefruit juice,apple cider,0.1
+grapefruit juice,orgeat syrup,0.1
+grapefruit juice,Lemonade,0.1
+grapefruit juice,Lime juice,0.1
+grapefruit juice,Orange juice,0.1
+grapefruit juice,pineapple juice,0
+grapefruit juice,Blue curacao,0
+grapefruit juice,cointreau,0
+grapefruit juice,grand marnier,0
+grapefruit juice,litchi juice,0
+grapefruit juice,Cranberry juice,0
+grapefruit juice,Apricot juice,0.1
+grapefruit juice,grenadine,0.1
+grapefruit juice,apricot liqueur,0.2
+grapefruit juice,worcestershire sauce,0.1
+grapefruit juice,berry juice,0.1
+grapefruit juice,Currant syrup,0.2
+grapefruit juice,Tamarin juice,0.1
+grapefruit juice,Mango juice,0.1
+grapefruit juice,passion fruit syrup,0.2
+grapefruit juice,Passion fruit juice,0.5
+grapefruit juice,rice milk,0.2
+grapefruit juice,grapefruit juice,1
+grapefruit juice,coffee liqueur,0.2
+grapefruit juice,coffee,0.2
+coffee liqueur,syrup,0.4
+coffee liqueur,apple juice,0.3
+coffee liqueur,Banana juice,0.1
+coffee liqueur,strawberry juice,0.3
+coffee liqueur,Creme de cassis,0.2
+coffee liqueur,Hard cider,0.3
+coffee liqueur,coconut milk,0.1
+coffee liqueur,apple cider,0.3
+coffee liqueur,orgeat syrup,0.4
+coffee liqueur,Lemonade,0.4
+coffee liqueur,Lime juice,0.4
+coffee liqueur,Orange juice,0.4
+coffee liqueur,pineapple juice,0.3
+coffee liqueur,Blue curacao,0.3
+coffee liqueur,cointreau,0.3
+coffee liqueur,grand marnier,0.3
+coffee liqueur,litchi juice,0.3
+coffee liqueur,Cranberry juice,0.3
+coffee liqueur,Apricot juice,0.3
+coffee liqueur,grenadine,0.3
+coffee liqueur,apricot liqueur,0.3
+coffee liqueur,worcestershire sauce,0.2
+coffee liqueur,berry juice,0.3
+coffee liqueur,Currant syrup,0.6
+coffee liqueur,Tamarin juice,0.2
+coffee liqueur,Mango juice,0.2
+coffee liqueur,passion fruit syrup,0.5
+coffee liqueur,Passion fruit juice,0.4
+coffee liqueur,rice milk,0.2
+coffee liqueur,grapefruit juice,0.2
+coffee liqueur,coffee liqueur,1
+coffee liqueur,coffee,1
+coffee,syrup,0.4
+coffee,apple juice,0.3
+coffee,Banana juice,0.1
+coffee,strawberry juice,0.3
+coffee,Creme de cassis,0.2
+coffee,Hard cider,0.3
+coffee,coconut milk,0.1
+coffee,apple cider,0.3
+coffee,orgeat syrup,0.4
+coffee,Lemonade,0.4
+coffee,Lime juice,0.4
+coffee,Orange juice,0.4
+coffee,pineapple juice,0.3
+coffee,Blue curacao,0.3
+coffee,cointreau,0.3
+coffee,grand marnier,0.3
+coffee,litchi juice,0.3
+coffee,Cranberry juice,0.3
+coffee,Apricot juice,0.3
+coffee,grenadine,0.3
+coffee,apricot liqueur,0.3
+coffee,worcestershire sauce,0.2
+coffee,berry juice,0.3
+coffee,Currant syrup,0.6
+coffee,Tamarin juice,0.2
+coffee,Mango juice,0.2
+coffee,passion fruit syrup,0.5
+coffee,Passion fruit juice,0.4
+coffee,rice milk,0.2
+coffee,grapefruit juice,0.2
+coffee,coffee liqueur,1
+coffee,coffee,1

@@ -1,0 +1,15 @@
+<recipe>
+<title>Ti'punch cocktail</title>
+<ingredients>
+<ingredient food=>'6 cl white rum'</ingredient>
+<ingredient food=>'2 cl cane syrup'</ingredient>
+<ingredient food=>'1 slice of orange'</ingredient>
+</ingredients>
+<preparation>
+<step>'Wash a lime, remove top and bottom, and thinly slice into half rings</step>
+<step>Add lime pieces to glass and crush with the flat end of a barspoon</step>
+<step>', 'Add rum and cane syrup, top with broken ice, and muddle together</step>
+<step>Add a short straw, and serve</step>
+<step>}}'</step>
+</preparation>
+</recipe>
